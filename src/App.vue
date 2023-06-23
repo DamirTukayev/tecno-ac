@@ -3,6 +3,7 @@
     <v-container>
       <HeaderVue></HeaderVue>
       <NavigationVue></NavigationVue>
+      <FooterVue></FooterVue>
       <v-main>
         <router-view/>
       </v-main>
@@ -13,12 +14,14 @@
 <script>
   import HeaderVue from './components/common/HeaderVue.vue';
   import NavigationVue from './components/common/NavigationVue.vue';
+  import FooterVue from './components/common/FooterVue.vue';
 
 export default {
   name: 'App',
   components: {
     HeaderVue,
-    NavigationVue
+    NavigationVue,
+    FooterVue
   },
   data: () => ({
     //
