@@ -1,13 +1,16 @@
 <template>
   <div class="home">
+    <LeftblockVue/>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
+import LeftblockVue from '../components/main/LeftblockVue.vue'
 
 export default {
   name: 'Home',
-
+  components: {
+    LeftblockVue
+  }
 }
 </script>

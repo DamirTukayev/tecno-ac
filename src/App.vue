@@ -7,10 +7,12 @@
         <router-view/>
       </v-main>
     </v-container>
+    <FooterVue/>
   </v-app>
 </template>
 
 <script>
+  import FooterVue from './components/common/FooterVue.vue';
   import HeaderVue from './components/common/HeaderVue.vue';
   import NavigationVue from './components/common/NavigationVue.vue';
 
@@ -18,7 +20,8 @@ export default {
   name: 'App',
   components: {
     HeaderVue,
-    NavigationVue
+    NavigationVue,
+    FooterVue
   },
   data: () => ({
     //
