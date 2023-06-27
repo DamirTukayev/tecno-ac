@@ -3,23 +3,23 @@
       cycle
       height="400"
       hide-delimiter-background
-      show-arrows="hover"
+      show-arrows-on-hover
     >
       <v-carousel-item
-        v-for="(slide, i) in slides"
-        :key="i"
+        v-for="(slide, index) in slides"
+        :key="index"
       >
         <v-sheet
-          :color="colors[i]"
+          :color="colors[index]"
           height="100%"
           class="d-flex"
         >
         <v-img
-                    :src="slide.image"
-                    height="100%"
-                    width="50%"
-                    object-fit="cover"
-                    z-index="0"
+          :src="slide.image"
+          height="100%"
+          width="50%"
+          object-fit="cover"
+          z-index="0"
         ></v-img>
           <!-- <div class="d-flex fill-height justify-end align-center" style="margin-right: 90px; width: 50%;" > -->
             <div class="text-h4" style="width: 50%;">
@@ -57,6 +57,7 @@
             image: '../../assets/header/img/Slider_1.jpg',
             title: 'Bhdkv',
             text: 'Текст второй страницы',
+            price: '170',
             buttons: [
               { text: 'Кнопка 1', color: '#e10018' },
               { text: 'Кнопка 2', color: '#e10018' },
@@ -71,6 +72,3 @@
   
   
 
-<Style lang="scss">
-
-</Style>
