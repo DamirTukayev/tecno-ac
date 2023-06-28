@@ -95,6 +95,10 @@
   </script>
   
 <style lang="scss">
+.v-window--show-arrows-on-hover {
+    overflow: hidden;
+    height: 274px !important;
+}
 .text-h4 {
   display: flex;
   flex-direction: column;
@@ -174,7 +178,7 @@
     border-radius: 50%;
     position: absolute;
     margin: 0 16px;
-    top: calc(50% - 76px);
+    top: calc(50% - 20px);
     z-index: 1;
 }
 .v-btn.v-size--default {
