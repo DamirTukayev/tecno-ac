@@ -51,7 +51,6 @@
 <style lang="scss">
 .navigation {
   display: flex;
-  justify-content: space-between;
  
   &__btn{
     border: none;
