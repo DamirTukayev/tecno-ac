@@ -22,7 +22,7 @@
           z-index="0"
         ></v-img>
           <!-- <div class="d-flex fill-height justify-end align-center" style="margin-right: 90px; width: 50%;" > -->
-            <div class="text-h4" style="width: 50%;">
+            <div class="text-h4 " style="width: 50%;">
                 
               <h3 class="slider__title">{{ slide.title }} Slide</h3>
               <p class="text-body-2">{{ slide.text }}</p>
@@ -44,7 +44,7 @@
         colors: ['grey', 'grey', 'grey', 'grey', 'grey'],
         slides: [
           {
-            image: '../src/assets/header/img/slider_1.jpg',
+            image: require('@/assets/header/img/Slider_1.jpg'),
             title: 'Атлет ГЗЧ-2500 генератор звуковой частоты',
             text: 'Текст первой страницы',
             price: '170',
@@ -53,16 +53,16 @@
               { text: 'Кнопка 2', color: '#e10018' },
             ],
           },
-          {
-            image: '../../assets/header/img/Slider_1.jpg',
-            title: 'Bhdkv',
-            text: 'Текст второй страницы',
-            price: '170',
-            buttons: [
-              { text: 'Кнопка 1', color: '#e10018' },
-              { text: 'Кнопка 2', color: '#e10018' },
-            ],
-          },
+          // {
+          //   image: '../../assets/header/img/Slider_1.jpg',
+          //   title: 'Bhdkv',
+          //   text: 'Текст второй страницы',
+          //   price: '170',
+          //   buttons: [
+          //     { text: 'Кнопка 1', color: '#e10018' },
+          //     { text: 'Кнопка 2', color: '#e10018' },
+          //   ],
+          // },
           // Добавьте остальные слайды с разным текстом и кнопками
         ],
       };
@@ -70,5 +70,10 @@
   };
   </script>
   
-  
+<style>
+.slider__title {
+  font-size: 50px;
+  color: blueviolet;
+}
+</style>
 

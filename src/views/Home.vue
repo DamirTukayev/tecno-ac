@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home d-flex">
     <LeftblockVue/>
     <RightblockVue/>
   </div>
