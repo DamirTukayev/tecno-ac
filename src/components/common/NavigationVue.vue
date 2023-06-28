@@ -51,7 +51,6 @@
 <style lang="scss">
 .navigation {
   display: flex;
-  justify-content: space-between;
  
   &__btn{
     border: none;
@@ -59,6 +58,7 @@
     padding: 0 16px!important;
     background: #e50119!important;
     opacity: 1!important;
+    flex-grow: 1;
   }
   .v-btn--active {
     opacity: 1!important;
