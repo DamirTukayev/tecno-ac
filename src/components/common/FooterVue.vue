@@ -129,6 +129,7 @@ Trim, [23.06.2023 18:03]
     }
     &-phone__wrap{
         display: flex;
+        justify-content: center;
     }
     &-callback__btnn{
         display: inline-block;
