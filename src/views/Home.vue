@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <LeftblockVue/>
-    <RightblockVue class="home-rightblock"/>
+    <RightblockVue class="home-rightblock"/> 
   </div>
 </template>
 
