@@ -159,6 +159,7 @@
         margin-right: 46px;
     }
 }
-.footer-top{
+.footer-menu-column{
+    margin-left: 30px;
 }
 </style>
