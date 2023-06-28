@@ -28,8 +28,8 @@
       <div class="header__numbers">
         <img src="../../assets/header/phone.svg" class="mr-2" alt="">
         <div>
-          <div class="header__phone mb-1">8 (800) 500-39-73</div>
-          <div class="header__phone">8 (499) 110-02-16</div>
+          <div class="header__phone mb-1">8 (718) 262-73-62</div>
+          <div class="header__phone">8 (778) 730-32-12</div>
         </div>
       </div>
       <div class="header__order">Заказать звонок</div>

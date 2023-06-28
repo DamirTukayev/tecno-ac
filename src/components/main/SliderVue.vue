@@ -40,7 +40,7 @@
         colors: ['#f2f2f2', '#f2f2f2', '#f2f2f2', '#f2f2f2', '#f2f2f2'],
         slides: [
           {
-            image: require('@/assets/header/img/slider_1.jpg'),
+            image: require('@/assets/home/slider/slider_1.jpg'),
             title: 'Атлет ГЗЧ-2500 генератор звуковой частоты',
             titla: 'ДВА РЕЖИМА ГЕНЕРАЦИИ • ЗАЩИТА ОТ ПЕРЕГРУЗКИ ПО ТОКУ',
             text: 'Определение трассы подземного кабеля или трубопровода при непосредственном подключении к коммуникации.',
@@ -50,7 +50,7 @@
             ],
           },
           {
-            image: require('@/assets/header/img/slider_2.jpg'),
+            image: require('@/assets/home/slider/slider_2.jpg'),
             title: 'Передвижная лаборатория на базе Газель NN',
             text: 'Электротехническая лаборатория для кабельных линий напряжением от 0,4 до 10 кВ.',
             price: '11 900 000 руб.',
@@ -59,7 +59,7 @@
             ],
           },
           {
-            image: require('@/assets/header/img/slider_3.jpg'),
+            image: require('@/assets/home/slider/slider_3.jpg'),
             title: 'Трассоискатель подземных коммуникаций Успех АГ-309.50Ц',
             text: 'Современный цифровой трассопоисковый приемник-моноблок с цветным дисплем.Трассировочный генератор с выходной мощностью до 100 Вт.',
             price: '296 400 руб.',
@@ -68,7 +68,7 @@
             ],
           },
           {
-            image: require('@/assets/header/img/slider_4.jpg'),
+            image: require('@/assets/home/slider/slider_4.jpg'),
             title: 'Распродажа складских остатков!Успейте купить!',
             text: 'Клещи электроизмерительные DT-351 8 020 руб. 4 400 руб. Счетчик МЕРКУРИЙ 200.04 1ф 5-60А 6 054 руб. 3 900 руб.',
             price: '11 900 000 руб.',
@@ -78,7 +78,7 @@
             ],
           },
           {
-            image: require('@/assets/header/img/slider_5.jpg'),
+            image: require('@/assets/home/slider/slider_5.jpg'),
             title: 'Арочные металлодетекторы UltraScan',
             titla: 'ПОСТАВКА + ДОСТАВКА + УСТАНОВКА',
             text: 'Высокая точность обнаружения и современный дизайн позволяют использовать рамочные металлодетекторы UltraScan в местах с повышенными требованиями к безопасности.',
@@ -105,7 +105,7 @@
 }
 
 .left-padding {
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 .v-sheet{
