@@ -221,7 +221,7 @@
     }
     &-subscribe__form{
         padding: 14px 19px 21px 19px;
-        border-bottom: 4px solid #dc0017;;
+        border-bottom: 4px solid #dc0017;
     }
     &_title{
         font-size: 16px;

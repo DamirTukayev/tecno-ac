@@ -24,7 +24,7 @@
     </v-text-field>
 
     <div class="header__contacts">
-      <div class="header__mail">sales@technoac.ru</div>
+      <div class="header__mail">info1technoac@gmail.com</div>
       <div class="header__numbers">
         <img src="../../assets/header/phone.svg" class="mr-2" alt="">
         <div>

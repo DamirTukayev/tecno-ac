@@ -6,6 +6,7 @@
       <v-main>
         <router-view/>
       </v-main>
+      
     </v-container>
     <FooterVue/>
   </v-app>

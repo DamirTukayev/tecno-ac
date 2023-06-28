@@ -1,6 +1,6 @@
-Trim, [23.06.2023 18:03]
 <template>
     <div class="footer">
+        <v-container>
         <div class="footer-content">
             <div class="footer-top">
                 <div class="footer-menu">
@@ -60,15 +60,16 @@ Trim, [23.06.2023 18:03]
                 </div>
             </div>
         </div>
+    </v-container>
     </div>
 </template>
 
-Trim, [23.06.2023 18:03]
 <style lang="scss">
 .footer{
     background: #f6f6f7;
+
     &-content{
-        padding: 25px 24px 39px;
+        padding: 25px 0 39px;
     }
     &-top{
         display: grid;
@@ -157,5 +158,7 @@ Trim, [23.06.2023 18:03]
         justify-content: center;
         margin-right: 46px;
     }
+}
+.footer-top{
 }
 </style>
