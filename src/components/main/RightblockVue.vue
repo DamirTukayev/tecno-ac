@@ -11,6 +11,7 @@
             </div>
         </div>
         <StockVue/>
+        <WrapVue/>
     </div>
 </template>
 
@@ -19,13 +20,15 @@
     import TizersVue from './TizersVue.vue';
     import ImageProductVue from './ImageProductVue.vue';
     import StockVue from './StockVue.vue';
+    import WrapVue from './WrapVue.vue';
 
     export default {
         components: {
             SliderVue,
             TizersVue,
             ImageProductVue,
-            StockVue
+            StockVue,
+            WrapVue
         },
         data() {
             return {
