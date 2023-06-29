@@ -12,6 +12,7 @@
         </div>
         <StockVue/>
         <WrapVue/>
+        <BrandsSliderVue/>
     </div>
 </template>
 
@@ -21,6 +22,8 @@
     import ImageProductVue from './ImageProductVue.vue';
     import StockVue from './StockVue.vue';
     import WrapVue from './WrapVue.vue';
+    import BrandsSliderVue from './BrandsSliderVue.vue';
+    
 
     export default {
         components: {
@@ -28,7 +31,8 @@
             TizersVue,
             ImageProductVue,
             StockVue,
-            WrapVue
+            WrapVue,
+            BrandsSliderVue
         },
         data() {
             return {
