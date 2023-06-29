@@ -30,7 +30,32 @@ export default {
 </script>
 
 <style>
-*{
-  font-family: 'Roboto', sans-serif;
-}
+  * {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .container {
+    width: 100%;
+    padding: 12px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  @media (min-width: 960px) {
+    .container {
+      max-width: 900px;
+    }
+  }
+
+  @media (min-width: 1264px) {
+    .container {
+      max-width: 1185px;
+    }
+  }
+
+  @media (min-width: 1904px) {
+    .container {
+      max-width: 1785px;
+    }
+  }
 </style>
