@@ -10,6 +10,7 @@
                 </div>
             </div>
         </div>
+        <StockVue/>
     </div>
 </template>
 
@@ -17,12 +18,14 @@
     import SliderVue from './SliderVue.vue';
     import TizersVue from './TizersVue.vue';
     import ImageProductVue from './ImageProductVue.vue';
+    import StockVue from './StockVue.vue';
 
     export default {
         components: {
             SliderVue,
             TizersVue,
-            ImageProductVue
+            ImageProductVue,
+            StockVue
         },
         data() {
             return {

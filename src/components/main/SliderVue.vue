@@ -95,6 +95,7 @@
   </script>
   
 <style lang="scss">
+
 .v-window--show-arrows-on-hover {
     overflow: hidden;
     height: 274px !important;
@@ -105,8 +106,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: baseline;
-  margin-left: 15px;
-  margin-right: 90px;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 .left-padding {
@@ -134,8 +135,9 @@
 }
 .slider__title {
   font-size: 25px;
-  line-height: 25px;
+  line-height: 20px;
   font-weight: 500;
+  width: 70%;
 }
 .slider__titla {
   color: #555;
@@ -163,8 +165,9 @@
 }
 .slider__text-body-2{
   font-size: 0.65rem;
-  line-height: 18px;
+  line-height: 10px;
   margin-top: 10px;
+  width: 70% !important;
 }
 .v-application p {
   margin-bottom: 0;
