@@ -16,6 +16,7 @@
 .wrap{
     display: flex;
     margin-top: 40px;
+    margin-bottom: 40px;
     &-img{
         width: 25%;
         &__image{
