@@ -9,7 +9,7 @@
             active-class="purple white--text"
             depressed
             rounded
-            style="padding: 0 0.7% !important; width: 150px;"
+            style="padding: !important; "
             @click="toggle"
           >
             <v-img
@@ -57,7 +57,7 @@
 
 .v-application--is-ltr .v-responsive__sizer ~ .v-responsive__content {
   margin-left: -100%;
-  width: 100px !important;
+  width: 115px !important;
 }
 
 .v-btn:hover .v-img {
