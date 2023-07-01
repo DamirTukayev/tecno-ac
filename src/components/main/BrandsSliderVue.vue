@@ -30,6 +30,14 @@
   </div>
 </template>
 
+<script>
+  export default {
+    data: () => ({
+      model: null,
+    }),
+  }
+</script>
+
 <style>
 .v-responsive__sizer {
   padding-bottom: none !important;
