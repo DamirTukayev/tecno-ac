@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <img class="header__logo" src="../../assets/header/logo.svg" alt="">
+    <img class="header__logo" src="../../assets/header/logo.svg" alt="" to="/">
     <div class="header__social">
       <div class="header__text">
         Успешно работаем на рынке уже более 30 лет
