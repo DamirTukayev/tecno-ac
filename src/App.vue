@@ -4,6 +4,7 @@
       <HeaderVue/>
       <NavigationVue/>
       <v-main>
+        <LeftBlockVue/>
         <router-view/>
       </v-main>
     </v-container>
@@ -15,13 +16,15 @@
   import FooterVue from './components/common/FooterVue.vue';
   import HeaderVue from './components/common/HeaderVue.vue';
   import NavigationVue from './components/common/NavigationVue.vue';
+  import LeftBlockVue from './components/main/LeftblockVue.vue';
   
 export default {
   name: 'App',
   components: {
     HeaderVue,
     NavigationVue,
-    FooterVue
+    FooterVue,
+    LeftBlockVue
   },
   data: () => ({
     //
@@ -33,7 +36,10 @@ export default {
   * {
     font-family: 'Roboto', sans-serif;
   }
-
+  .v-main__wrap {
+    display: flex;
+    justify-content: space-between;
+  }
   .container {
     width: 100%;
     padding: 12px;
