@@ -1,6 +1,8 @@
 <template>
   <div class="header">
-    <img class="header__logo" src="../../assets/header/logo.svg" alt="" to="/">
+    <router-link to="/">
+      <img class="header__logo" src="../../assets/header/logo.svg" alt="">
+    </router-link>
     <div class="header__social">
       <div class="header__text">
         Успешно работаем на рынке уже более 30 лет
