@@ -32,7 +32,10 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
+  :root {
+    --main-bg-color: #e10018;
+  }
   * {
     font-family: 'Roboto', sans-serif;
   }
