@@ -1,6 +1,6 @@
 <template>
   <div class="brands">
-    <v-sheet class="mx-auto" max-width="932">
+    <v-sheet class="mx-auto" max-width="1240">
       <v-slide-group multiple show-arrows style="height: 46.6px !important;">
         <v-slide-item v-for="(n, index) in 20" :key="n" v-slot="{ active, toggle }">
           <v-btn
@@ -39,6 +39,10 @@
 </script>
 
 <style>
+.v-btn:not(.v-btn--round).v-size--default {
+  height: 0px;
+  padding: 0 47px !important;
+}
 .mx-auto {
     margin-top: 20px;
     margin-bottom: 80px;
