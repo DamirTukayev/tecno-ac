@@ -39,6 +39,10 @@
 </script>
 
 <style>
+.mx-auto {
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
 .v-responsive__sizer {
   padding-bottom: none !important;
 }

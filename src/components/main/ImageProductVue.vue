@@ -19,8 +19,9 @@
         {{ item.subtitle }}
       </p>
     </div>
-    
   </div>
+  
+  
 </template>
 
 <script>
