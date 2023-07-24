@@ -98,7 +98,7 @@
 
 .v-window--show-arrows-on-hover {
     overflow: hidden;
-    height: 274px !important;
+    height: 321px !important;
     border-bottom: 2px solid #dc0017;
 }
 .text-h4 {

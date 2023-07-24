@@ -39,9 +39,9 @@
 </script>
 
 <style>
-.v-btn:not(.v-btn--round).v-size--default {
-  height: 0px;
-  padding: 0 47px !important;
+.v-slide-group__content {
+    align-items: center;
+    gap: 67px;
 }
 .mx-auto {
     margin-top: 20px;

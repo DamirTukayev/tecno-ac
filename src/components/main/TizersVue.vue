@@ -23,7 +23,7 @@
 .tizers{
     display: flex;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 40px;
     border-bottom: 1px solid #e5e5e5;
     padding: 0 10px;
     &-block{
