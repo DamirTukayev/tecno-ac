@@ -19,6 +19,7 @@
         {{ item.subtitle }}
       </p>
     </div>
+
   </div>
   
   

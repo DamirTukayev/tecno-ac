@@ -19,6 +19,7 @@
               :style="{
                 filter: active ? 'none' : 'grayscale(100%)',
                 opacity: active ? '1' : '0.6',
+                objectFit: 'contain',
               }"
               @mouseenter="toggle"
               @mouseleave="toggle"
