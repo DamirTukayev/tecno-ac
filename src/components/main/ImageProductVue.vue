@@ -62,6 +62,7 @@
     position: absolute;
     display: flex;
     flex-direction: column;
+    width: 80%;
   }
   &__title{
     background: var(--main-bg-color);
