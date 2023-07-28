@@ -1,16 +1,6 @@
 <template>
     <div>
-        <StockVue/>
+        аывалывалыва
     </div>
 </template>
 
-<script>
-
- import StockVue from './StockVue.vue';
-
- export default {
-        components: {
-            StockVue,
-        }
-        }
-</script>
