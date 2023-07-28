@@ -1,26 +1,35 @@
 <template>
-  <v-carousel cycle height="400" hide-delimiter-background show-arrows-on-hover>
-    <v-carousel-item v-for="(slide, index) in slides" :key="index">
-      <v-sheet :color="colors[index]" height="100%" class="d-flex">
+  <v-carousel
+    cycle
+    hide-delimiter-background
+    show-arrows-on-hover
+    height="322"
+    class="carousel"
+    delimiter-icon="mdi-brightness-1"
+  >
+    <v-carousel-item 
+      v-for="(slide, index) in slides"
+      :key="index"
+    >
+      <v-sheet :color="colors[index]" class="d-flex carousel__wrap">
         <v-img
           :src="slide.image"
-          height="100%"
           width="50%"
           object-fit="cover"
-          :class="{'order-2': index % 2 === 0, 'order-1': index % 2 !== 0}"
+          :class="{'order-2': index % 2 === 1, 'order-1': index % 2 !== 1}"
         ></v-img>
         <div
-          class="text-h4"
+          class="carousel__text"
           :class="{
-            'order-1': index % 2 === 0,
-            'order-2': index % 2 !== 0,
-            'left-padding': index % 2 === 0
+            'order-1': index % 2 === 1,
+            'order-2': index % 2 !== 1,
+            'left-padding': index % 2 === 1
           }"
         >
-          <h3 class="slider__title">{{ slide.title }}</h3>
-          <h6 class="slider__titla">{{ slide.titla }}</h6>
-          <p class="slider__text-body-2">{{ slide.text }}</p>
-          <span class="slider__price">{{ slide.price }}</span>
+          <h3 class="slider__title mb-3">{{ slide.title }}</h3>
+          <h6 class="slider__titla mb-2">{{ slide.titla }}</h6>
+          <p class="slider__text-body-2 mb-4">{{ slide.text }}</p>
+          <span class="slider__price mb-4">{{ slide.price }}</span>
           <v-row class="slider__button">
             <v-btn v-for="(button, btnIndex) in slide.buttons" :key="btnIndex" :color="button.color" class="slider__btn">{{ button.text }}</v-btn>
           </v-row>
@@ -95,58 +104,56 @@
   </script>
   
 <style lang="scss">
+.carousel{
+  .left-padding{
+    padding-left: 90px;
+  }
+  .v-item-group{
+    margin-bottom: -16px;
+  }
+  .v-sheet {
+    height: 100% !important;
+  }
+  &__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .v-btn--icon.v-size--small::before{
+    opacity: 1;
+    border: 2px solid black;
+  }
+  .v-btn--icon.v-size--small {
+    height: 10px;
+    width: 10px;
+    margin: 0 4px;
+  }
+  .v-btn--active {
+    color: black!important;;
+  }
 
-.v-window--show-arrows-on-hover {
-    overflow: hidden;
-    height: 321px !important;
-    border-bottom: 2px solid #dc0017;
-}
-.text-h4 {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: baseline;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
-.left-padding {
-  padding-left: 30px;
-}
-
-.v-sheet{
-  height: auto !important;
-}
-.v-application--is-ltr .v-responsive__sizer ~ .v-responsive__content {
-    margin-left: -100%;
-    width: 537px !important;
-}
-.v-image__image--cover {
-    background-size: cover;
-    background-position: inherit !important;
-}
-.text-h4{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: baseline;
-  margin-left: 15px;
-  margin-right: 90px;
+  .v-btn--icon.v-size--small .v-icon, .v-btn--fab.v-size--small .v-icon {
+    opacity: 0;
+  }
 }
 .slider__title {
-  font-size: 25px;
-  line-height: 20px;
-  font-weight: 500;
-  width: 70%;
+  width: 100%;
+  font-size: 30px;
+  line-height: 33px;
+  font-weight: 600;
+  padding-right: 10px;
 }
 .slider__titla {
-  color: #555;
-  font-size: 10px;
-  margin: 0px 0px 0px;
+  color: #181818;
+  font-size: 15px;
 }
 .slider__price{
-  font-size: 18px;
   color: #181818;
+  font-size: 20px;
+  font-weight: bold;
 }
 .slider__button{
   display: flex;
@@ -158,35 +165,15 @@
 .slider__btn{
   color: #fff !important;
   border-radius: 0% !important;
-  padding: 15px 15px 15px 15px !important;
+  padding: 20px 15px!important;
+  text-transform: initial;
+  font-weight: 400;
+  span {
+    font-size: 15px;
+  }
   &:hover{
     opacity: 0.8;
   }
-}
-.slider__text-body-2{
-  font-size: 0.65rem;
-  line-height: 10px;
-  margin-top: 10px;
-  width: 70% !important;
-}
-.v-application p {
-  margin-bottom: 0;
-}
-.v-btn:not(.v-btn--round).v-size--default {
-    height: 0px;
-    min-width: 64px;
-    padding: 0 16px;
-}
-.v-window__prev, .v-window__next {
-    background: rgba(0, 0, 0, 0.3);
-    border-radius: 50%;
-    position: absolute;
-    margin: 0 16px;
-    top: calc(50% - 20px);
-    z-index: 1;
-}
-.v-btn.v-size--default {
-    font-size: 0.7rem;
 }
 </style>
 
