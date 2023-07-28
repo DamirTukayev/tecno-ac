@@ -73,9 +73,9 @@
         display: inline-block;
         vertical-align: top;
         padding: 6px 6px;
-        width: 30%;
+        width: 25%;
         &_1{
-        height: 315px;
+        height: 275px;
         position: relative;
         box-shadow: 0 0 1px #a2a6aa inset;
         -webkit-transition: box-shadow ease-out 0.2s, border ease-out 0.2s;
@@ -86,13 +86,13 @@
         box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
         } 
         &__img{
-        height: 230px;
+        height: 190px;
         line-height: 180px;
         text-align: center;
         overflow: hidden;
         }
         &__info{
-        padding: 13px 100px 18px 23px;
+        padding: 13px 20px 18px 23px;
         line-height: 18px;
         &__text{
         line-height: 18px;
