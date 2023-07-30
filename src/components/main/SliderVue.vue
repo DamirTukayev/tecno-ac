@@ -104,17 +104,6 @@
   </script>
   
 <style lang="scss">
-.v-btn--icon.v-size--default {
-    height: 43px;
-    width: 43px;
-}
-.theme--dark.v-btn.v-btn--icon {
-    color: #3a3737;
-    &:hover{
-      background: #e10018;
-      color: #fff;
-    }
-}
 .v-application--is-ltr .v-window--show-arrows-on-hover .v-window__prev {
     background: #fff;
     border-radius: 20px;
@@ -125,6 +114,27 @@
   }
 
 .carousel{
+  .slider__btn span {
+    font-size: 15px;
+    color: white !important;
+}
+  .v-btn--icon.v-size--default {
+    height: 43px;
+    width: 43px;
+}
+.v-btn__content {
+  color: #3a3737;
+  &:hover{
+      color: #fff;
+    }
+}
+.theme--dark.v-btn.v-btn--icon {
+    // color: #3a3737;
+    &:hover{
+      background: #e10018;
+      color: #fff;
+    }
+}
   .left-padding{
     padding-left: 90px;
   }
