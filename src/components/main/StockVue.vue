@@ -75,7 +75,7 @@
         padding: 6px 6px;
         width: 25%;
         &_1{
-        height: 275px;
+        height: 290px;
         position: relative;
         box-shadow: 0 0 1px #a2a6aa inset;
         -webkit-transition: box-shadow ease-out 0.2s, border ease-out 0.2s;

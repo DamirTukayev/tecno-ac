@@ -1,7 +1,7 @@
 <template>
   <div class="brands">
     <v-sheet class="mx-auto" max-width="1240" >
-      <v-slide-group multiple show-arrows style="height: 46.6px !important;">
+      <v-slide-group multiple show-arrows style="height: 49.6px !important;">
         <v-slide-item v-for="(n, index) in 20" :key="n" v-slot="{ active, toggle }">
           <v-btn
             class="brands__item"
@@ -42,7 +42,6 @@
   margin-top: 40px;
   &__wrap {
     max-width: 1200px;
-    
   }
   .v-sheet:not(.v-sheet--outlined) {
   margin-top: 20px; 
@@ -64,6 +63,16 @@
       height: 50px;
     }
   }
+  .brands__item {
+  box-shadow: none !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+.brands__item .v-image__image {
+  transform: none !important;
+  transition: none !important;
+}
 }
 
 
