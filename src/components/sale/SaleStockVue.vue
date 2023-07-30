@@ -1,6 +1,7 @@
 <template>
-    <div>
-        аывалывалыва
-    </div>
+    <div></div>
 </template>
 
+<script>
+
+</script>
