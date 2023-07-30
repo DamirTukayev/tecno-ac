@@ -31,7 +31,7 @@ export default {
   justify-content: start;
   .stock-image-block_1__info {
     line-height: 18px;
-    padding: 20px 55px 0 0;
+    padding: 20px 5px 0 0;
 }
   .stock-image-block_1 {
     height: 0;
@@ -76,7 +76,7 @@ export default {
     -webkit-box-sizing: border-box;
 }
 .ask_small_block {
-  width: 200px;
+  width: 215px;
   border: 1px solid #e5e5e5;
 }
 .ask_small_block .ask_btn_block {
@@ -100,6 +100,12 @@ export default {
     font-size: 13px;
     line-height: 18px;
     padding: 19px 24px 19px;
+}
+.stock-image-block_1__info__titla {
+    font-size: 16px;
+}
+.stock-image-block_1__info__text {
+    color: #1d2029;
 }
 }
 </style>
