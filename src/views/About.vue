@@ -205,5 +205,11 @@ ul li, ol li {
 b{
     color: #181818;
 }
+h3 {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    margin: 0 0 23px;
+}
 }
 </style>
