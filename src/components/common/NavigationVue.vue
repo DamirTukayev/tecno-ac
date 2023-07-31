@@ -28,7 +28,7 @@
       <v-btn  class="navigation__btn" to="/info">
         Информация
       </v-btn>
-      <v-btn  class="navigation__btn">
+      <v-btn  class="navigation__btn" to="/help">
         Помощь
       </v-btn>
       <v-btn  class="navigation__btn">
