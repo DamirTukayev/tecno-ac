@@ -97,13 +97,14 @@
 
   <style lang="scss">
 .Help{
-margin-top: 40px;
 .middle {
     position: relative;
     float: left;
     width: 100%;
 }
-
+.fa-credit-card:before {
+    content: "\f09d";
+}
 h1 {
     line-height: 35px;
     /* clear: both; */
@@ -123,10 +124,7 @@ p {
     font-size: 0px;
     margin: 0px -6px;
 }
-.rows_block:after, .rows_block:before {
-    display: table;
-    content: " ";
-}
+
 .rows_block * {
     box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -171,6 +169,9 @@ h2, h3, h4, h5 {
 .fa-credit-card:before {
     content: "\f09d";
 }
+.fa-exchange:before {
+    content: "\f0ec";
+}
 .news_wrapp .help .item_block i {
     position: absolute;
     margin: -3px 0 0 -35px;
@@ -180,7 +181,7 @@ h2, h3, h4, h5 {
     margin-bottom: 7px;
 }
 a{
-       color: #cd0016;
+    color: #cd0016;
 }
 .text-center {
     text-align: center;
@@ -215,15 +216,19 @@ a{
 .help-block .wrap_bg .icon i {
     padding: 9px 0;
 }
-.fa-life-bouy:before, .fa-life-buoy:before, .fa-life-saver:before, .fa-support:before, .fa-life-ring:before {
-    content: "\f1cd";
-}
 .col-2 {
     flex: 0 0 16.6666666667%;
     max-width: none;
 }
 a:hover{
      color: #1d2029 !important;
+}
+.help-block .wrap_bg .icon {
+    text-align: right;
+    font-size: 32px;
+}
+.fa-life-bouy:before, .fa-life-buoy:before, .fa-life-saver:before, .fa-support:before, .fa-life-ring:before {
+    content: "\f1cd";
 }
 }
 </style>
