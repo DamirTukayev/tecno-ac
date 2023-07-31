@@ -16,7 +16,7 @@
       <v-btn  class="navigation__btn" to="/sale">
         Акции
       </v-btn>
-      <v-btn  class="navigation__btn">
+      <v-btn  class="navigation__btn" to="/about">
         О компании
       </v-btn>
       <v-btn  class="navigation__btn">
