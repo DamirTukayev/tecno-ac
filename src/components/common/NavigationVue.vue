@@ -22,7 +22,7 @@
       <v-btn  class="navigation__btn" to="/dealers">
         Дилерам
       </v-btn>
-      <v-btn  class="navigation__btn">
+      <v-btn  class="navigation__btn" to="/tenders">
         Тендеры
       </v-btn>
       <v-btn  class="navigation__btn" to="/info">
