@@ -10,7 +10,7 @@
         <v-icon class="mr-1" size="16px" color="#fff">mdi-menu</v-icon>
         Продукция
       </v-btn>
-      <v-btn  class="navigation__btn">
+      <v-btn  class="navigation__btn" to="/import">
         Импортозамещение
       </v-btn>
       <v-btn  class="navigation__btn" to="/sale">
