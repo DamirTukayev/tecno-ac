@@ -47,7 +47,7 @@ export default {
     width: 100%;
     margin-right: auto;
     margin-left: auto;
-    padding: 0 24px;
+    // padding: 0 24px;
   }
   @media (max-width: 768px){
     .container {

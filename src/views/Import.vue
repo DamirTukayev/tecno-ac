@@ -175,28 +175,28 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр контактный ТК-5.06С" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр контактный ТК-5.06С" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Термометр контактный<br>ТК-5.06С</b>
               </td>
               <td align="center">
                 <small>Hioki, Япония</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр Hioki 3441" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр Hioki 3441" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> Hioki 3441
               </td>
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры CENTER 300" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры CENTER 300" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br> CENTER 300
               </td>
               <td align="center">
                 <small>PALMER Wahl, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр электронный Wahl 700MC" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр электронный Wahl 700MC" src="../assets/home/import/01.jpg">
                 <br> Термометр электронный
                 <br> Wahl 700MC
               </td>
@@ -211,14 +211,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр контактный ТК-5.09С" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр контактный ТК-5.09С" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Термометр контактный<br>ТК-5.09С</b>
               </td>
               <td align="center">
                 <small>PALMER Wahl, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр электронный Wahl TM-1370" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр электронный Wahl TM-1370" src="../assets/home/import/01.jpg">
                 <br> Термометр
                 <br> электронный
                 <br> Wahl TM-1370
@@ -226,14 +226,14 @@
               <td align="center">
                 <small>МЕГЕОН, Китай</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры МЕГЕОН 16312" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры МЕГЕОН 16312" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br> МЕГЕОН 16312
               </td>
               <td align="center">
                 <small>KIMO, Франция</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Термометр KIMO TR 150 с зондом PT 100" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Термометр KIMO TR 150 с зондом PT 100" src="../assets/home/import/01.jpg">
                 <br> Термометр
                 <br> KIMO TR 150
                 <br> с зондом PT 100
@@ -241,7 +241,7 @@
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="1-канальный термометр testo 925" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="1-канальный термометр testo 925" src="../assets/home/import/01.jpg">
                 <br> 1-канальный
                 <br> термометр
                 <br> testo 925
@@ -249,14 +249,14 @@
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Термометр контактный CENTER 370" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Термометр контактный CENTER 370" src="../assets/home/import/01.jpg">
                 <br> Термометр контактный
                 <br> CENTER 370
               </td>
               <td align="center">
                 <small>SANPOMETER, Китай</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр DM6801A" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр DM6801A" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> DM6801A
               </td>
@@ -265,28 +265,28 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр контактный ТК-5.11С" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр контактный ТК-5.11С" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Термометр контактный<br>ТК-5.11С</b>
               </td>
               <td align="center">
                 <small>АКТАКОМ, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры АТТ-2000" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры АТТ-2000" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br> АТТ-2000
               </td>
               <td align="center">
                 <small>АКТАКОМ, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры АТТ-2001" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры АТТ-2001" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br> АТТ-2001
               </td>
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры CENTER 301" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры CENTER 301" src="../assets/home/import/01.jpg">
                 <br> Измеритель
                 <br> температуры
                 <br> CENTER 301
@@ -294,21 +294,21 @@
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="2-х канальный термометр testo 922" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="2-х канальный термометр testo 922" src="../assets/home/import/01.jpg">
                 <br> 2-х канальный термометр
                 <br> testo 922
               </td>
               <td align="center">
                 <small>Hioki, Япония</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр 3447" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр 3447" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> 3447
               </td>
               <td align="center">
                 <small>HANNA Instruments, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Портативный термометр HI935005" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Портативный термометр HI935005" src="../assets/home/import/01.jpg">
                 <br> Портативный термометр
                 <br> HI935005
               </td>
@@ -317,28 +317,28 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр контактный ТК-5.27" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр контактный ТК-5.27" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Термометр контактный<br>ТК-5.27</b>
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="3-канальный термометр testo 735-2" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="3-канальный термометр testo 735-2" src="../assets/home/import/01.jpg">
                 <br> 3-канальный термометр
                 <br> testo 735-2
               </td>
               <td align="center">
                 <small>EXTECH, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр EXTECH 421502" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр EXTECH 421502" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> EXTECH 421502
               </td>
               <td align="center">
                 <small>KIMO, Франция</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометры KIMO TN 100, TN 101, TN 102 с NTC датчиком" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометры KIMO TN 100, TN 101, TN 102 с NTC датчиком" src="../assets/home/import/01.jpg">
                 <br> Термометры
                 <br> KIMO TN 100,
                 <br> TN 101, TN 102
@@ -347,7 +347,7 @@
               <td align="center">
                 <small>FLUKE, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр Fluke 53 серии II" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр Fluke 53 серии II" src="../assets/home/import/01.jpg">
                 <br> Термометр Fluke 53 серии II
               </td>
               <td align="center">
@@ -359,28 +359,28 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр контактный ТК-5.29" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр контактный ТК-5.29" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Термометр контактный<br>ТК-5.29</b>
               </td>
               <td align="center">
                 <small>TQC, Нидерланды</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр TQC Sheen TE1000" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр TQC Sheen TE1000" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> TQC Sheen TE1000
               </td>
               <td align="center">
                 <small>PALMER Wahl, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Цифровой термометр Wahl TM-612" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Цифровой термометр Wahl TM-612" src="../assets/home/import/01.jpg">
                 <br> Цифровой термометр
                 <br> Wahl TM-612
               </td>
               <td align="center">
                 <small>EXTECH, США</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Термометр двойного ввода Extech EA10 EasyView" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Термометр двойного ввода Extech EA10 EasyView" src="../assets/home/import/01.jpg">
                 <br> Термометр
                 <br> двойного ввода
                 <br> Extech EA10 EasyView
@@ -388,7 +388,7 @@
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="2-х канальный термометр testo 922" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="2-х канальный термометр testo 922" src="../assets/home/import/01.jpg">
                 <br> 2-х канальный термометр
                 <br> testo 922
               </td>
@@ -414,14 +414,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Смарт-зонд погружаемый L=150 мм СЗПГ.150" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Смарт-зонд погружаемый L=150 мм СЗПГ.150" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд погружаемый<br>СЗПГ.150</b>
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр с погружным/проникающим зондом testo 915i" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр с погружным/проникающим зондом testo 915i" src="../assets/home/import/01.jpg">
                 <br> Термометр с погружным / проникающим зондом testo 915i
               </td>
             </tr>
@@ -429,14 +429,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Смарт-зонд воздушный высокоточный L=150 мм СЗВВ.150" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Смарт-зонд воздушный высокоточный L=150 мм СЗВВ.150" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд воздушный высокоточный<br>СЗВВ.150</b>
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр с зондом температуры воздуха testo 915i" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр с зондом температуры воздуха testo 915i" src="../assets/home/import/01.jpg">
                 <br> Термометр с зондом температуры воздуха testo 915i
               </td>
             </tr>
@@ -444,14 +444,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Смарт-зонд для подключения внешнего термоэлектрического преобразователя СЗВТ" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Смарт-зонд для подключения внешнего термоэлектрического преобразователя СЗВТ" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд для подключения<br>внешнего термоэлектрического<br>преобразователя СЗВТ</b>
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термометр с гибким зондом testo 915i" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термометр с гибким зондом testo 915i" src="../assets/home/import/01.jpg">
                 <br> Термометр с гибким зондом testo 915i
               </td>
             </tr>
@@ -459,14 +459,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Смарт-зонд поверхностный L=150 мм СЗПВ.150" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Смарт-зонд поверхностный L=150 мм СЗПВ.150" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд поверхностный<br>СЗПВ.150</b>
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Термометр с гибким зондом testo 915i" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Термометр с гибким зондом testo 915i" src="../assets/home/import/01.jpg">
                 <br> Термометр с гибким зондом testo 915i
               </td>
             </tr>
@@ -474,14 +474,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Смарт-зонд для подключения внешнего термоэлектрического преобразователя настенный СЗВТН" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Смарт-зонд для подключения внешнего термоэлектрического преобразователя настенный СЗВТН" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд для подключения<br>внешнего термоэлектрического<br>преобразователя настенный СЗВТН</b>
               </td>
               <td align="center">
                 <small>АКТАКОМ, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры АТЕ-2036BT" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры АТЕ-2036BT" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры АТЕ-2036BT
               </td>
             </tr>
@@ -489,7 +489,7 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Смарт-зонд относительной влажности и температуры настенный СЗВЛН" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Смарт-зонд относительной влажности и температуры настенный СЗВЛН" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Смарт-зонд относительной<br>
 		влажности и температуры<br>
@@ -498,7 +498,7 @@
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="WiFi-логгер Testo 160 TH" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="WiFi-логгер Testo 160 TH" src="../assets/home/import/01.jpg">
                 <br> WiFi-логгер Testo 160 TH
               </td>
             </tr>
@@ -519,21 +519,21 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель-регистратор ИС-203.2.0" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель-регистратор ИС-203.2.0" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Измеритель-регистратор<br>ИС-203.2.0</b>
               </td>
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" ls-is-cached lazyloaded" alt="Измеритель температуры CENTER 301" src="../assets/home/import/01.jpg">
+                <img  class=" ls-is-cached lazyloaded" alt="Измеритель температуры CENTER 301" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br>CENTER 301
               </td>
               <td align="center">
                 <small>Testo, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="2-х канальный логгер данных температуры testo 176 T2" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="2-х канальный логгер данных температуры testo 176 T2" src="../assets/home/import/01.jpg">
                 <br> 2-х канальный логгер
                 <br>данных температуры
                 <br>testo 176 T2
@@ -541,7 +541,7 @@
               <td align="center">
                 <small>PCE, Германия</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Логгер температуры и влажности PCE-HT110" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Логгер температуры и влажности PCE-HT110" src="../assets/home/import/01.jpg">
                 <br> Логгер температуры и
                 <br>влажности PCE-HT110
               </td>
@@ -550,28 +550,28 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель-регистратор ИС-203.3" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель-регистратор ИС-203.3" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Измеритель-регистратор<br>ИС-203.3</b>
               </td>
               <td align="center">
                 <small>KIMO, Франция</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Многоканальные дисплеи KIMO ATT 300" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Многоканальные дисплеи KIMO ATT 300" src="../assets/home/import/01.jpg">
                 <br> Многоканальные дисплеи
                 <br>KIMO ATT 300
               </td>
               <td align="center">
                 <small>EXTECH, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Регистратор данных с питанием от батареи Extech 380340" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Регистратор данных с питанием от батареи Extech 380340" src="../assets/home/import/01.jpg">
                 <br> Регистратор данных
                 <br>Extech 380340
               </td>
               <td align="center">
                 <small>TQC, Нидерланды</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Термограф печи TQC Curve-X3 Standard" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Термограф печи TQC Curve-X3 Standard" src="../assets/home/import/01.jpg">
                 <br> Термограф печи
                 <br>TQC Curve-X3 Standard
               </td>
@@ -580,14 +580,14 @@
               <td align="center">
                 <small><b>ТЕХНО-АС, Россия</b></small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель-регистратор ИС-203.4" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель-регистратор ИС-203.4" src="../assets/home/import/01.jpg">
                 <br>
                 <b>Измеритель-регистратор<br>ИС-203.4</b>
               </td>
               <td align="center">
                 <small>EXTECH, США</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="4-канальный термометр Extech SDL200 с функцией регистрации" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="4-канальный термометр Extech SDL200 с функцией регистрации" src="../assets/home/import/01.jpg">
                 <br> 4-канальный термометр
                 <br>Extech SDL200
                 <br>с функцией регистрации
@@ -595,14 +595,14 @@
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры CENTER 304" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры CENTER 304" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br>CENTER 304
               </td>
               <td align="center">
                 <small>CENTER, Тайвань</small>
                 <br>
-                <img data-lazyload="" class=" lazyloaded" alt="Измеритель температуры CENTER 521" src="../assets/home/import/01.jpg">
+                <img  class=" lazyloaded" alt="Измеритель температуры CENTER 521" src="../assets/home/import/01.jpg">
                 <br> Измеритель температуры
                 <br>CENTER 521
               </td>
@@ -630,382 +630,382 @@
         <div class="list items">
           <div class="catalog_section_list rows_block items section flexbox">
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_198">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/avtolaboratorii/elektrotekhnicheskie-peredvizhnye-laboratorii/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/avtolaboratorii/elektrotekhnicheskie-peredvizhnye-laboratorii/filter/brand-is-techno-ac/apply/" class="dark_link">Электротехнические передвижные лаборатории</a>
+                  <a href="#" class="dark_link">Электротехнические передвижные лаборатории</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_199">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/avtolaboratorii/spetsialnye-peredvizhnye-laboratorii/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/avtolaboratorii/spetsialnye-peredvizhnye-laboratorii/filter/brand-is-techno-ac/apply/" class="dark_link">Специальные передвижные лаборатории</a>
+                  <a href="#" class="dark_link">Специальные передвижные лаборатории</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_217">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/kabeleiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/kabeleiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Кабелеискатели</a>
+                  <a href="#" class="dark_link">Кабелеискатели</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_218">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Трассоискатели и кабелетрассоискатели</a>
+                  <a href="#" class="dark_link">Трассоискатели и кабелетрассоискатели</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_19">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-s-gps-glonass-modulem/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-s-gps-glonass-modulem/filter/brand-is-techno-ac/apply/" class="dark_link">Кабелеискатели и трассоискатели с GPS/ГЛОНАСС модулем</a>
+                  <a href="#" class="dark_link">Кабелеискатели и трассоискатели с GPS/ГЛОНАСС модулем</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_216">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/morozoustoychivye-kabeleiskateli-i-trassoiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/morozoustoychivye-kabeleiskateli-i-trassoiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Морозоустойчивые кабелеискатели и трассоискатели</a>
+                  <a href="#" class="dark_link">Морозоустойчивые кабелеискатели и трассоискатели</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_18">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-s-funktsiey-poiska-povrezhdeniy-vneshney-izolyatsii/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-s-funktsiey-poiska-povrezhdeniy-vneshney-izolyatsii/filter/brand-is-techno-ac/apply/" class="dark_link">Трассоискатели с функцией поиска повреждений внешней изоляции</a>
+                  <a href="#" class="dark_link">Трассоискатели с функцией поиска повреждений внешней изоляции</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_17">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-dlya-truboprovodov/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassoiskateli-i-kabeleiskateli/trassoiskateli-dlya-truboprovodov/filter/brand-is-techno-ac/apply/" class="dark_link">Трассоискатели для металлических и неметаллических трубопроводов</a>
+                  <a href="#" class="dark_link">Трассоискатели для металлических и неметаллических трубопроводов</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_56">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/techeiskateli/techeiskateli-akusticheskie/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/techeiskateli/techeiskateli-akusticheskie/filter/brand-is-techno-ac/apply/" class="dark_link">Течеискатели акустические</a>
+                  <a href="#" class="dark_link">Течеискатели акустические</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_57">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/techeiskateli/techeiskateli-korrelyatsionnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/techeiskateli/techeiskateli-korrelyatsionnye/filter/brand-is-techno-ac/apply/" class="dark_link">Течеискатели корреляционные</a>
+                  <a href="#" class="dark_link">Течеискатели корреляционные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_25">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/trassotecheiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/trassotecheiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Трассотечеискатели</a>
+                  <a href="#" class="dark_link">Трассотечеискатели</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_207">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/termometry/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/termometry/filter/brand-is-techno-ac/apply/" class="dark_link">Термометры контактные</a>
+                  <a href="#" class="dark_link">Термометры контактные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_130">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/termogigrometry-tsifrovye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/termogigrometry-tsifrovye/filter/brand-is-techno-ac/apply/" class="dark_link">Термогигрометры цифровые</a>
+                  <a href="#" class="dark_link">Термогигрометры цифровые</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_129">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/zondy-dlya-termometrov-kontaktnykh/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/zondy-dlya-termometrov-kontaktnykh/filter/brand-is-techno-ac/apply/" class="dark_link">Зонды для термометров контактных ТК-5</a>
+                  <a href="#" class="dark_link">Зонды для термометров контактных ТК-5</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_208">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/komplekty-s-termometrami-kontaktnymi/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/termometry-kontaktnye-i-komplekty/komplekty-s-termometrami-kontaktnymi/filter/brand-is-techno-ac/apply/" class="dark_link">Комплекты с термометрами контактными</a>
+                  <a href="#" class="dark_link">Комплекты с термометрами контактными</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_226">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/komplekty-so-smart-zondami/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/komplekty-so-smart-zondami/filter/brand-is-techno-ac/apply/" class="dark_link">Комплекты со смарт-зондами</a>
+                  <a href="#" class="dark_link">Комплекты со смарт-зондами</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_37">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-pogruzhaemye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-pogruzhaemye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды погружаемые</a>
+                  <a href="#" class="dark_link">Смарт-зонды погружаемые</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_36">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-pogruzhaemye-usilennye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-pogruzhaemye-usilennye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды погружаемые усиленные</a>
+                  <a href="#" class="dark_link">Смарт-зонды погружаемые усиленные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_64">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды поверхностные</a>
+                  <a href="#" class="dark_link">Смарт-зонды поверхностные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_63">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye-vysokotemperaturnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye-vysokotemperaturnye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды поверхностные высокотемпературные</a>
+                  <a href="#" class="dark_link">Смарт-зонды поверхностные высокотемпературные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_62">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye-vysokotochnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-poverkhnostnye-vysokotochnye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды поверхностные высокоточные</a>
+                  <a href="#" class="dark_link">Смарт-зонды поверхностные высокоточные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_69">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-vozdushnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-vozdushnye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды воздушные</a>
+                  <a href="#" class="dark_link">Смарт-зонды воздушные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_68">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-vozdushnye-vysokotochnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-vozdushnye-vysokotochnye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды воздушные высокоточные</a>
+                  <a href="#" class="dark_link">Смарт-зонды воздушные высокоточные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_67">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-otnositelnoy-vlazhnosti-i-temperatury/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-otnositelnoy-vlazhnosti-i-temperatury/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды относительной влажности и температуры</a>
+                  <a href="#" class="dark_link">Смарт-зонды относительной влажности и температуры</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_66">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-dlya-termoelektricheskogo-preobrazovatelya/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-dlya-termoelektricheskogo-preobrazovatelya/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды для подключения термоэлектрического преобразователя</a>
+                  <a href="#" class="dark_link">Смарт-зонды для подключения термоэлектрического преобразователя</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_65">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-davleniya-atmosfernogo/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-davleniya-atmosfernogo/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды давления атмосферного</a>
+                  <a href="#" class="dark_link">Смарт-зонды давления атмосферного</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_35">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/smart-zondy/smart-zondy-nastennye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/smart-zondy/smart-zondy-nastennye/filter/brand-is-techno-ac/apply/" class="dark_link">Смарт-зонды настенные</a>
+                  <a href="#" class="dark_link">Смарт-зонды настенные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_38">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/izmeriteli-registratory/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/izmeriteli-registratory/filter/brand-is-techno-ac/apply/" class="dark_link">Измерители-регистраторы</a>
+                  <a href="#" class="dark_link">Измерители-регистраторы</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_48">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/generatory-trassirovochnye/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/generatory-trassirovochnye/filter/brand-is-techno-ac/apply/" class="dark_link">Генераторы трассировочные</a>
+                  <a href="#" class="dark_link">Генераторы трассировочные</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_59">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/dopolnitelnoe-trassopoiskovoe-oborudovanie/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/dopolnitelnoe-trassopoiskovoe-oborudovanie/filter/brand-is-techno-ac/apply/" class="dark_link">Дополнительное трассопоисковое оборудование</a>
+                  <a href="#" class="dark_link">Дополнительное трассопоисковое оборудование</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_209">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/teplovizory-i-teplovizionnye-kompleksy/teplovizionnye-kompleksy/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/teplovizory-i-teplovizionnye-kompleksy/teplovizionnye-kompleksy/filter/brand-is-techno-ac/apply/" class="dark_link">Тепловизионные комплексы</a>
+                  <a href="#" class="dark_link">Тепловизионные комплексы</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_190">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/teplovizory-i-teplovizionnye-kompleksy/teplovizory-epidemiologicheskogo-kontrolya/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/teplovizory-i-teplovizionnye-kompleksy/teplovizory-epidemiologicheskogo-kontrolya/filter/brand-is-techno-ac/apply/" class="dark_link">Тепловизоры эпидемиологического контроля</a>
+                  <a href="#" class="dark_link">Тепловизоры эпидемиологического контроля</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_102">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/pirometry/nizkotemperaturnye-pirometry/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/pirometry/nizkotemperaturnye-pirometry/filter/brand-is-techno-ac/apply/" class="dark_link">Низкотемпературные пирометры</a>
+                  <a href="#" class="dark_link">Низкотемпературные пирометры</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_43">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/portativnye-elektrotekhnicheskie-laboratorii/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/portativnye-elektrotekhnicheskie-laboratorii/filter/brand-is-techno-ac/apply/" class="dark_link">Портативные электротехнические лаборатории</a>
+                  <a href="#" class="dark_link">Портативные электротехнические лаборатории</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_277">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/generatory-zvukovoy-chastoty/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/generatory-zvukovoy-chastoty/filter/brand-is-techno-ac/apply/" class="dark_link">Генераторы звуковой частоты</a>
+                  <a href="#" class="dark_link">Генераторы звуковой частоты</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_160">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/generatory-udarnykh-impulsov/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/generatory-udarnykh-impulsov/filter/brand-is-techno-ac/apply/" class="dark_link">Генераторы ударных импульсов</a>
+                  <a href="#" class="dark_link">Генераторы ударных импульсов</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_164">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/kabeledefektoiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/pribory-dlya-poiska-mest-povrezhdeniy-i-ispytaniya-kabelya/kabeledefektoiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Кабеледефектоискатели</a>
+                  <a href="#" class="dark_link">Кабеледефектоискатели</a>
                 </div>
               </div>
             </div>
             <div class="col-4 item_block">
-              <div class="item section_item" id="bx_484937479_96">
+              <div class="item section_item">
                 <div class="img shine">
-                  <a href="/catalog/metalloiskateli-metallodetektory/metalloiskateli/filter/brand-is-techno-ac/apply/" class="thumb"><img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
+                  <a href="#" class="thumb"><img  class=" lazyloaded" src="../assets/home/import/01.jpg"></a>
                 </div>
                 <div class="name">
-                  <a href="/catalog/metalloiskateli-metallodetektory/metalloiskateli/filter/brand-is-techno-ac/apply/" class="dark_link">Металлоискатели</a>
+                  <a href="#" class="dark_link">Металлоискатели</a>
                 </div>
               </div>
             </div>
@@ -1020,1086 +1020,11 @@
         <div class="js_filter filter_horizontal">
           <div class="bx_filter bx_filter_vertical"></div>
         </div>
-
-        <div class="js-wrapper-block" data-params="{&quot;SHOW_ABSENT&quot;:&quot;&quot;,&quot;HIDE_NOT_AVAILABLE_OFFERS&quot;:&quot;&quot;,&quot;PRICE_CODE&quot;:[&quot;BASE&quot;,&quot;&quot;],&quot;OFFER_TREE_PROPS&quot;:[],&quot;OFFER_SHOW_PREVIEW_PICTURE_PROPS&quot;:[],&quot;CACHE_TIME&quot;:&quot;36000000&quot;,&quot;CONVERT_CURRENCY&quot;:&quot;N&quot;,&quot;CURRENCY_ID&quot;:&quot;&quot;,&quot;OFFERS_SORT_FIELD&quot;:&quot;sort&quot;,&quot;OFFERS_SORT_ORDER&quot;:&quot;asc&quot;,&quot;OFFERS_SORT_FIELD2&quot;:&quot;id&quot;,&quot;OFFERS_SORT_ORDER2&quot;:&quot;desc&quot;,&quot;LIST_OFFERS_LIMIT&quot;:&quot;&quot;,&quot;CACHE_GROUPS&quot;:&quot;N&quot;,&quot;LIST_OFFERS_PROPERTY_CODE&quot;:[&quot;&quot;,&quot;&quot;],&quot;SHOW_DISCOUNT_TIME&quot;:&quot;&quot;,&quot;SHOW_COUNTER_LIST&quot;:&quot;&quot;,&quot;PRICE_VAT_INCLUDE&quot;:&quot;Y&quot;,&quot;USE_PRICE_COUNT&quot;:&quot;N&quot;,&quot;SHOW_MEASURE&quot;:&quot;N&quot;,&quot;SHOW_OLD_PRICE&quot;:&quot;N&quot;,&quot;SHOW_DISCOUNT_PERCENT&quot;:&quot;N&quot;,&quot;SHOW_DISCOUNT_PERCENT_NUMBER&quot;:&quot;N&quot;,&quot;USE_REGION&quot;:&quot;&quot;,&quot;STORES&quot;:[&quot;&quot;,&quot;&quot;],&quot;DEFAULT_COUNT&quot;:&quot;&quot;,&quot;BASKET_URL&quot;:&quot;&quot;,&quot;SHOW_GALLERY&quot;:&quot;Y&quot;,&quot;MAX_GALLERY_ITEMS&quot;:&quot;&quot;,&quot;OFFERS_CART_PROPERTIES&quot;:[],&quot;PRODUCT_PROPERTIES&quot;:&quot;&quot;,&quot;PARTIAL_PRODUCT_PROPERTIES&quot;:&quot;&quot;,&quot;ADD_PROPERTIES_TO_BASKET&quot;:&quot;&quot;,&quot;SHOW_ONE_CLICK_BUY&quot;:&quot;&quot;,&quot;SHOW_DISCOUNT_TIME_EACH_SKU&quot;:&quot;&quot;,&quot;SHOW_ARTICLE_SKU&quot;:&quot;&quot;,&quot;ADD_PICT_PROP&quot;:&quot;&quot;,&quot;ADD_DETAIL_TO_SLIDER&quot;:&quot;&quot;,&quot;OFFER_ADD_PICT_PROP&quot;:&quot;&quot;,&quot;PRODUCT_QUANTITY_VARIABLE&quot;:&quot;&quot;,&quot;IBINHERIT_TEMPLATES&quot;:[],&quot;DISPLAY_WISH_BUTTONS&quot;:&quot;&quot;}">
-          <div id="right_block_ajax_wrapper" class="ajax_load cur clear" data-code="block">
-
-            <div class="common_product wrapper_block top_border1" id="specials_slider_wrapp_FyyThF">
-
-              <ul class="slider_navigation top_big custom_flex border">
-                <ul class="flex-direction-nav">
-                  <li class="flex-nav-prev"><a class="flex-prev" href="#">Previous</a></li>
-                  <li class="flex-nav-next"><a class="flex-next" href="#">Next</a></li>
-                </ul>
-              </ul>
-              <div class="all_wrapp" style="height: 413px;">
-                <div class="content_inner tab absolute" data-unhover="413" data-hover="496" style="opacity: 1; height: 413px; overflow: hidden;">
-
-                  <div class="flex-viewport" style="overflow: hidden; position: relative;">
-                    <ul class="specials_slider slides wr" style="width: 4000%; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
-                      <li id="bx_2662763187_1861" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/zond-pogruzhaemyy-zpg8-150-d-4-mm" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="1861"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="1861"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="1861" data-param-item_href="%2Fcatalog%2Fproduct%2Fzond-pogruzhaemyy-zpg8-150-d-4-mm" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/zond-pogruzhaemyy-zpg8-150-d-4-mm"><span>Зонд погружаемый L=150 ЗПГ8.150 (d=4 мм)</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_sBq3II_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_sBq3II_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="4740">
-                                <span class="values_wrapper"><span class="price_value">4&nbsp;740</span><span class="price_currency"> ₽</span></span>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none; opacity: 1;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/zond-pogruzhaemyy-zpg8-150-d-4-mm" data-item="1861">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_297" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/termometr-kontaktnyy-tk-5-01s" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="297" data-param-item_href="%2Fcatalog%2Fproduct%2Ftermometr-kontaktnyy-tk-5-01s" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/termometr-kontaktnyy-tk-5-01s"><span>Термометр контактный ТК-5.01С</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_NLJNn1_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-voted" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_NLJNn1_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">11&nbsp;940 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none; opacity: 1;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/termometr-kontaktnyy-tk-5-01s" data-item="297">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_242" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/izmeritel-samopishushchiy-is-203-1-0" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="242" data-param-item_href="%2Fcatalog%2Fproduct%2Fizmeritel-samopishushchiy-is-203-1-0" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/izmeritel-samopishushchiy-is-203-1-0"><span>ИС-203.1.0 - измеритель самопишущий</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_ZzF7UW_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_ZzF7UW_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">8&nbsp;940 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none; opacity: 1;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/izmeritel-samopishushchiy-is-203-1-0" data-item="242">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_225" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/kleshchi-induktsionnye-ki-105-50" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="225"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="225"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class=" lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="225" data-param-item_href="%2Fcatalog%2Fproduct%2Fkleshchi-induktsionnye-ki-105-50" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/kleshchi-induktsionnye-ki-105-50"><span>КИ-105/50 - клещи индукционные</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_Iu9Bjo_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-voted" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_Iu9Bjo_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="21960">
-                                <span class="values_wrapper"><span class="price_value">21&nbsp;960</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none; opacity: 1;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/kleshchi-induktsionnye-ki-105-50" data-item="225">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_1916" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/zond-pogruzhaemyy-l-150-zpg8-150-d-2-mm" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="1916"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="1916"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class=" ls-is-cached lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="1916" data-param-item_href="%2Fcatalog%2Fproduct%2Fzond-pogruzhaemyy-l-150-zpg8-150-d-2-mm" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/zond-pogruzhaemyy-l-150-zpg8-150-d-2-mm"><span>Зонд погружаемый L=150 ЗПГ8.150 (d=2 мм)</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_q11Wwm_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_q11Wwm_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="5280">
-                                <span class="values_wrapper"><span class="price_value">5&nbsp;280</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/zond-pogruzhaemyy-l-150-zpg8-150-d-2-mm" data-item="1916">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_298" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/termometr-kontaktnyy-tk-5-01ms" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class=" ls-is-cached lazyloaded" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="298" data-param-item_href="%2Fcatalog%2Fproduct%2Ftermometr-kontaktnyy-tk-5-01ms" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/termometr-kontaktnyy-tk-5-01ms"><span>Термометр контактный ТК-5.01МС</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_wnW8nW_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-voted" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_wnW8nW_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">12&nbsp;480 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/termometr-kontaktnyy-tk-5-01ms" data-item="298">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_243" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/izmeritel-samopishushchiy-is-203-1-1" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="243" data-param-item_href="%2Fcatalog%2Fproduct%2Fizmeritel-samopishushchiy-is-203-1-1" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/izmeritel-samopishushchiy-is-203-1-1"><span>ИС-203.1.1 - измеритель самопишущий</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_XmMM27_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_XmMM27_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">8&nbsp;520 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/izmeritel-samopishushchiy-is-203-1-1" data-item="243">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_230" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/kleshchi-induktsionnye-ki-110-50" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="230"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="230"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="230" data-param-item_href="%2Fcatalog%2Fproduct%2Fkleshchi-induktsionnye-ki-110-50" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/kleshchi-induktsionnye-ki-110-50"><span>КИ-110/50 - клещи индукционные</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_oQMX41_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_oQMX41_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="21960">
-                                <span class="values_wrapper"><span class="price_value">21&nbsp;960</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/kleshchi-induktsionnye-ki-110-50" data-item="230">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_1862" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/zond-pogruzhaemyy-zpg8-300" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="1862"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="1862"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="1862" data-param-item_href="%2Fcatalog%2Fproduct%2Fzond-pogruzhaemyy-zpg8-300" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/zond-pogruzhaemyy-zpg8-300"><span>Зонд погружаемый L=300 ЗПГ8.300</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_D8NkGP_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_D8NkGP_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="5940">
-                                <span class="values_wrapper"><span class="price_value">5&nbsp;940</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/zond-pogruzhaemyy-zpg8-300" data-item="1862">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_299" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/termometr-kontaktnyy-tk-5-01ps" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="299" data-param-item_href="%2Fcatalog%2Fproduct%2Ftermometr-kontaktnyy-tk-5-01ps" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/termometr-kontaktnyy-tk-5-01ps"><span>Термометр контактный ТК-5.01ПС</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_lsS7wV_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-voted" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_lsS7wV_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">12&nbsp;960 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/termometr-kontaktnyy-tk-5-01ps" data-item="299">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_244" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/izmeritel-registrator-is-203-2-0" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="244" data-param-item_href="%2Fcatalog%2Fproduct%2Fizmeritel-registrator-is-203-2-0" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/izmeritel-registrator-is-203-2-0"><span>ИС-203.2.0 - измеритель регистратор</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_DPn1tV_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_DPn1tV_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">24&nbsp;480 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/izmeritel-registrator-is-203-2-0" data-item="244">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_226" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/kleshchi-induktsionnye-ki-105-100" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="226" data-param-item_href="%2Fcatalog%2Fproduct%2Fkleshchi-induktsionnye-ki-105-100" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/kleshchi-induktsionnye-ki-105-100"><span>КИ-105/100 - клещи индукционные</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_P0iQM1_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_P0iQM1_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="0">
-                                <span class="empty_price_text">Цена по запросу</span>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/kleshchi-induktsionnye-ki-105-100" data-item="226">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_1863" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/zond-pogruzhaemyy-l-500-zpg8-500" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="1863"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="1863"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="1863" data-param-item_href="%2Fcatalog%2Fproduct%2Fzond-pogruzhaemyy-l-500-zpg8-500" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/zond-pogruzhaemyy-l-500-zpg8-500"><span>Зонд погружаемый L=500 ЗПГ8.500</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_ElfdKB_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_ElfdKB_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="6660">
-                                <span class="values_wrapper"><span class="price_value">6&nbsp;660</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/zond-pogruzhaemyy-l-500-zpg8-500" data-item="1863">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_300" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/termometr-kontaktnyy-tk-5-01pts" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="300" data-param-item_href="%2Fcatalog%2Fproduct%2Ftermometr-kontaktnyy-tk-5-01pts" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/termometr-kontaktnyy-tk-5-01pts"><span>Термометр контактный ТК-5.01ПТС</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_VCNcVe_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_VCNcVe_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">14&nbsp;400 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/termometr-kontaktnyy-tk-5-01pts" data-item="300">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_247" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/izmeritel-registrator-is-203-3" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="247" data-param-item_href="%2Fcatalog%2Fproduct%2Fizmeritel-registrator-is-203-3" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/izmeritel-registrator-is-203-3"><span>ИС-203.3 - измеритель регистратор</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_4NIrVs_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_4NIrVs_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">29&nbsp;940 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/izmeritel-registrator-is-203-3" data-item="247">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_231" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/kleshchi-induktsionnye-ki-110-100" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="231"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="231"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="231" data-param-item_href="%2Fcatalog%2Fproduct%2Fkleshchi-induktsionnye-ki-110-100" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/kleshchi-induktsionnye-ki-110-100"><span>КИ-110/100 - клещи индукционные</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_4l4lnW_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_4l4lnW_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="26400">
-                                <span class="values_wrapper"><span class="price_value">26&nbsp;400</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/kleshchi-induktsionnye-ki-110-100" data-item="231">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_1865" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/zond-pogruzhaemyy-vysokotemperaturnyy-600-1800-s-l-1500-zpgv8" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="1865"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="1865"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="1865" data-param-item_href="%2Fcatalog%2Fproduct%2Fzond-pogruzhaemyy-vysokotemperaturnyy-600-1800-s-l-1500-zpgv8" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/zond-pogruzhaemyy-vysokotemperaturnyy-600-1800-s-l-1500-zpgv8"><span>Зонд погружаемый высокотемпературный (+600…+1800°С) L=1500 ЗПГВ8</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_1Z70s7_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_1Z70s7_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="48600">
-                                <span class="values_wrapper"><span class="price_value">48&nbsp;600</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/zond-pogruzhaemyy-vysokotemperaturnyy-600-1800-s-l-1500-zpgv8" data-item="1865">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_301" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/termometr-kontaktnyy-tk-5-04s" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="301" data-param-item_href="%2Fcatalog%2Fproduct%2Ftermometr-kontaktnyy-tk-5-04s" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/termometr-kontaktnyy-tk-5-04s"><span>Термометр контактный ТК-5.04С</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_dz9BX0_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-voted" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-voted" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_dz9BX0_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">9&nbsp;960 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/termometr-kontaktnyy-tk-5-04s" data-item="301">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_248" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/izmeritel-registrator-is-203-4" class="thumb">
-                            <div class="like_icons">
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="248" data-param-item_href="%2Fcatalog%2Fproduct%2Fizmeritel-registrator-is-203-4" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/izmeritel-registrator-is-203-4"><span>ИС-203.4 - измеритель регистратор</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_7vAXOP_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_7vAXOP_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price">
-                              от <span class="values_wrapper">36&nbsp;000 ₽</span> </div>
-
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/izmeritel-registrator-is-203-4" data-item="248">Подробнее</a> </div>
-                        </div>
-                      </li>
-                      <li id="bx_2662763187_227" class="catalog_item" style="height: 337.333px; width: 177.333px; float: left; display: block; opacity: 1;">
-                        <div class="image_wrapper_block">
-                          <a href="/catalog/product/kleshchi-induktsionnye-ki-105-125" class="thumb">
-                            <div class="like_icons">
-                              <div class="wish_item_button">
-                                <span title="Отложить" class="wish_item to" data-item="227"><i></i></span>
-                                <span title="В отложенных" class="wish_item in added" style="display: none;" data-item="227"><i></i></span>
-                              </div>
-                            </div>
-                            <img data-lazyload="" class="lazy" src="../assets/home/import/01.jpg">
-                          </a>
-                          <div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="14" data-param-id="227" data-param-item_href="%2Fcatalog%2Fproduct%2Fkleshchi-induktsionnye-ki-105-125" data-name="fast_view">Быстрый просмотр</div>
-                        </div>
-                        <div class="item_info" style="height: 148px;">
-                          <div class="item-title" style="height: 88px;">
-                            <a href="/catalog/product/kleshchi-induktsionnye-ki-105-125"><span>КИ-105/125 - клещи индукционные</span></a>
-                          </div>
-                          <div class="rating">
-                            <div id="bxdynamic_4sTTk0_start" style="display:none"></div>
-                            <div class="iblock-vote small">
-                              <table class="table-no-border">
-                                <tbody>
-                                  <tr>
-                                    <td>
-                                      <div class="star-active star-empty" title="1"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="2"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="3"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="4"></div>
-                                    </td>
-                                    <td>
-                                      <div class="star-active star-empty" title="5"></div>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                            <div id="bxdynamic_4sTTk0_end" style="display:none"></div>
-                          </div>
-                          <!--/?=$arQuantityData["HTML"];?-->
-                          <div class="cost prices clearfix">
-                            <div class="price_matrix_wrapper ">
-                              <div class="price" data-currency="RUB" data-value="52200">
-                                <span class="values_wrapper"><span class="price_value">52&nbsp;200</span><span class="price_currency"> ₽</span></span><span class="price_measure">/1</span> </div>
-                            </div>
-                          </div>
-                          <div class="buttons_block clearfix" style="display: none;">
-                            <a class="button transition_bg basket read_more" rel="nofollow" href="/catalog/product/kleshchi-induktsionnye-ki-105-125" data-item="227">Подробнее</a> </div>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
               </div>
-
-            </div>
-
           </div>
         </div>
       </div>
-    </div>
-    <div class="back"><a class="back" href="/info/brands/"><span>Вернуться</span></a></div>
-  </div>
-</div>
-    </div>
   </template>
 
 
@@ -2159,9 +1084,7 @@ hr {
     height: 1px;
     margin: 20px 0;
     background: #E5E5E5;
-}
-.detail_text.wimg blockquote {
-    /* margin: 15px 0 15px 310px; */
+    overflow: auto;
 }
 blockquote {
     color: #555;
