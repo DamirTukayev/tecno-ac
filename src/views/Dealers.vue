@@ -92,9 +92,9 @@
           </a>
         </div>
         <div class="item clearfix item_block" id="bx_3485106786_6401">
-          <a href="/dealers/">
-          </a>
           <a href="#">
+          </a>
+          <a href="/files/price_21.11.22.xlsx">
 
             <div class="wrapper_inner_block">
               <div class="left-data">

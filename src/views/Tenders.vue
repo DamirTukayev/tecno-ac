@@ -91,12 +91,14 @@
       <br>
     </p>
     <ul>
-      <li><a href="https://www.roseltorg.ru/" target="_blank">www.roseltorg.ru</a></li>
-      <li><a href="https://utp.sberbank-ast.ru/" target="_blank">utp.sberbank-ast.ru</a></li>
-      <li><a href="http://www.zakazrf.ru/" target="_blank">www.zakazrf.ru</a></li>
-      <li><a href="http://www.astgoz.ru/page/index" target="_blank">www.astgoz.ru</a></li>
-      <li><a href="https://www.fabrikant.ru/" target="_blank">www.fabrikant.ru</a></li>
-      <li><a href="https://zakupki.mos.ru/" target="_blank">zakupki.mos.ru</a></li>
+      <li><a href="https://www.erg.kz/" target="_blank">www.erg.kz</a></li>
+      <li><a href="https://www.goszakup.gov.kz" target="_blank">www.goszakup.gov.kz</a></li>
+      <li><a href="https://zakup.sk.kz/" target="_blank">zakup.sk.kz</a></li>
+      <li><a href="https://www.reestr.nadloc.kz/" target="_blank">www.reestr.nadloc.kz</a></li>
+      <li><a href="https://eep.mitwork.kz/" target="_blank">eep.mitwork.kz</a></li>
+      <li><a href="https://www.ets-tender.kz/" target="_blank">www.ets-tender.kz</a></li>
+      <li><a href="https://caspytender.kz/" target="_blank">caspytender.kz</a></li>
+      <li><a href="https://estau.kz/" target="_blank">estau.kz/</a></li>
       <li>и другие.</li>
     </ul>
     <p>
