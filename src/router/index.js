@@ -44,7 +44,24 @@ const routes = [
     path: '/tenders',
     name: 'Tenders',
     component: () => import('../views/Tenders.vue')
-  }
+  },
+  {
+    path: '/WhyAreWe',
+    name: 'WhyAreWe',
+    component: () => import('../views/WhyAreWe.vue')
+  },
+  {
+    path: '/cooperations',
+    name: 'Cooperations',
+    component: () => import('../views/Cooperations.vue')
+  },
+  {
+    path: '/program',
+    name: 'Program',
+    component: () => import('../views/Program.vue')
+  },
+  
+  
 ]
 
 const router = new VueRouter({

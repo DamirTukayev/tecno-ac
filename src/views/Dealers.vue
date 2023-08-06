@@ -45,6 +45,7 @@
 
       <div class="articles-list lists_block news dealer vertical row faq ">
         <div class="item clearfix item_block" id="bx_3485106786_6368">
+         <router-link to="/WhyAreWe">
           <a href="#">
             <div class="wrapper_inner_block">
               <div class="left-data">
@@ -58,10 +59,11 @@
             </div>
             <div class="item-title"><span>Почему мы</span></div>
           </a>
+        </router-link> 
         </div>
         <div class="item clearfix item_block" id="bx_3485106786_6369">
+         <router-link to="/cooperations">
           <a href="#">
-
             <div class="wrapper_inner_block">
               <div class="left-data">
                 <img class=" lazyloaded" src="../assets/home/dealers/02.png" alt="Условия сотрудничества" title="Условия сотрудничества">
@@ -74,8 +76,10 @@
             </div>
             <div class="item-title"><span>Условия сотрудничества</span></div>
           </a>
+         </router-link>
         </div>
         <div class="item clearfix item_block" id="bx_3485106786_6366">
+          <router-link to="/program">
           <a href="#">
 
             <div class="wrapper_inner_block">
@@ -90,6 +94,7 @@
             </div>
             <div class="item-title"><span>Программы для дилеров</span></div>
           </a>
+         </router-link>
         </div>
         <div class="item clearfix item_block" id="bx_3485106786_6401">
           <a href="#">
@@ -291,19 +296,10 @@ table.colored td, .catalog_detail hr, .viewed_products_column .view-list, .ask_s
     padding-right: 20px;
     width: auto;
 }
-.button_wrap .button, body .wrapper .button {
-    -webkit-appearance: none;
-}
 .button.vbig_btn {
     padding-top: 10px;
     padding-bottom: 11px;
     width: auto;
-}
-
-element.style {
-}
-.button_wrap .button, body .wrapper .button {
-    -webkit-appearance: none;
 }
 button.button, input.button, .button, #header ul.menu.full.opened li:not(.search_row):hover, #header ul.menu.full>li.search_row #search-submit-button:hover, table.title-search-result td.title-search-all a .icon, .flex-direction-nav li:hover, .flex-direction-nav li:first-child:hover, .top_slider_wrapp .flex-direction-nav li:hover, .like_icons .wish_item.added, .like_icons .compare_item.added, .light .stores .all_map, .block_wr.dark, .popup .close:hover, .h_color_colored .header_wrap #header, .registraion-page .top p:after, .has_menu.m_color_colored #header .catalog_menu, .module-cart .remove-cell a:hover, .cart_shell .remove-cell a:hover, .bx_item_set_hor .bx_item_set_hor_item a.remove, .bx_filter .bx_filter_popup_result, .bx_filter .bx_filter_parameters_box_title:before, .bx_filter_vertical input[type="checkbox"]+label:before, .filter input[type="checkbox"]+label:before, .filter input[type="radio"]+label:before, .bx_filter label.pal:hover .bx_filter_param_btn, .bx_filter .bx_filter_param_label.active .bx_filter_param_btn, .bx_filter_vertical input[type="checkbox"]:checked+label.sku, .left_block .internal_sections_list li.cur, .left_block .internal_sections_list li:hover, .left_block .internal_sections_list .title .inner_block:hover:before, .left_block .internal_sections_list .child_wrapp .child li.depth3 a.menu_item.cur:before, .left_block .internal_sections_list .child_wrapp .child li.depth3 a.menu_item:hover:before, .left_block .internal_sections_list .child_wrapp ul.child li.cur:after, .left_block .internal_sections_list .child_wrapp ul.child li:hover:after, body #content .props_list tr td>span:before, body #content .props_list tr td>.txt:before, .module-pagination .nums .cur, .more_text_ajax:before, .captcha_reload:before, .sku_props .bx_item_detail_size ul li.active, .bx_size_scroller_container .bx_size ul li.bx_active, .bx_catalog_item_scu .bx_item_detail_scu ul li.active span:not(.cnt_item), .ik_select_list .ik_select_list_inner ul li.ik_select_active, .bx_filter_select_popup ul li label.selected, .filter_opener.opened, .no_goods .no_products:before, .wr_scrollbar .scrollbar .handle, .remove:hover, a i.arrow, .popup-window-close-icon.popup-window-titlebar-close-icon:hover, .bx_kit_item .bx_kit_item_add, .catalog_detail .offers_table td.opener:hover .opener_icon, .opener_icon:hover, .char_name .hint .icon:hover, .char_name .hint.active .icon, .location-block-wrapper .bx-sls .bx-ui-sls-clear:before, h4:hover .opener_icon, .bg_block:before, #order_form_div input[type="submit"], .module-order-history .item_name:hover .icon, .module-order-history .item_name:hover .icon, .faq.list .item .q:hover .opener_icon, .jobs_wrapp .item .name tr:hover .opener_icon {
     color: #FFF;
