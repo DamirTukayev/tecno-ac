@@ -50,7 +50,7 @@
                   placeholder="Ваш e-mail"
                   aria-required="true"/>
                 <div class="left-block-send__btn">
-                    <svg class="left-block-send__btn" xmlns="http://www.w3.org/2000/svg" viewBox="1212 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <svg class="left-block-send__btn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14M12 5l7 7-7 7" stroke="#FFFFFF" />
                     </svg>
                 </div>

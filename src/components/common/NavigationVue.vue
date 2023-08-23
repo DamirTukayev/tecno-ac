@@ -29,7 +29,7 @@
         Информация
       </v-btn>
       <v-btn  class="navigation__btn" to="/help">
-        Помощ
+        Помощь
       </v-btn>
       <v-btn  class="navigation__btn">
         Контакты

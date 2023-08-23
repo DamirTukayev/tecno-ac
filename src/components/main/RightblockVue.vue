@@ -3,13 +3,14 @@
         <SliderVue/>
         <TizersVue/>
         <div>
-            <h2 class="my-2">Автолаборатории, контрольно-измерительные приборы и оборудование</h2>
+            <h2 class="my-2 fs-30">Автолаборатории, контрольно-измерительные приборы и оборудование</h2>
             <div class="d-flex flex-wrap">
                 <div v-for="(item, index) in productImages" :key="index" :style="{width: item.size === 'big' ? '50%' : '25%'}" class="image-with-border">
                     <ImageProductVue :item="item"/>
                 </div>
             </div>
         </div>
+        <OffersVue/>
         <StockVue/>
         <WrapVue/>
         <BrandsSliderVue/>
@@ -19,10 +20,11 @@
 <script>
     import SliderVue from './SliderVue.vue';
     import TizersVue from './TizersVue.vue';
-    import ImageProductVue from './ImageProductVue.vue';
+    import ImageProductVue from './ImageProductVue';
     import StockVue from './StockVue.vue';
     import WrapVue from './WrapVue.vue';
     import BrandsSliderVue from './BrandsSliderVue';
+    import OffersVue from './OffersVue';
     
 
     export default {
@@ -32,7 +34,8 @@
             ImageProductVue,
             StockVue,
             WrapVue,
-            BrandsSliderVue
+            BrandsSliderVue,
+            OffersVue
         },
         data() {
             return {
@@ -100,5 +103,8 @@
 <style>
     .image-with-border {
         border: 1px solid #FFF;
+    }
+    .fs-30 {
+        font-size: 30px;
     }
 </style>

@@ -26,6 +26,7 @@
     margin-top: 40px;
     border-bottom: 1px solid #e5e5e5;
     padding: 0 10px;
+    justify-content: space-between;
     &-block{
         display: flex;
         vertical-align: middle;
@@ -40,10 +41,12 @@
         white-space: nowrap;
         gap: 20px;
         align-items: center;
+   
         &__title{
             text-align: left;
-            margin: -6px 0px 0px;
             white-space: normal;
+            margin-bottom: 0 !important;
+            font-size: 13px;
         }
 }
 }
