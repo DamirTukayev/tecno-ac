@@ -53,10 +53,10 @@ import ProductVue from './ProductVue.vue'
     methods: {
       async getProducts (item) {
         const tag = item ? item : 'Новинки'
-        const url = this.$config.API + 'goods/' + '?tag__name=' + tag + '&limit=8'
+        const url = this.$config.API + 'goods/' + '?tags__name=' + tag + '&limit=8'
         try {
           const resp = await this.$axios.get(url)
-          this.products = resp.data
+          this.products = resp.data.results
           console.log(resp);
         } catch (error) {
           console.log(error);

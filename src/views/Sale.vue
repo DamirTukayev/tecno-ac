@@ -28,7 +28,7 @@ export default {
 .Stock{
   margin-left: 20px;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   .stock-image-block_1__info {
     line-height: 18px;
     padding: 20px 5px 0 0;

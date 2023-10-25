@@ -2,7 +2,7 @@
   <div class="product" @mouseover="showOther = true" @mouseleave="showOther = false">
     <img class="product__img" :src="item.preview_photo" alt="">
     <div class="product__title">{{ item.title }}</div>
-    <div class="product__price">{{ item.price }}</div>
+    <div class="product__price">{{ item.price }} ₽</div>
     <div class="product__other" :class="{ 'visible': showOther }">
       <div class="product__counter">
         <div @click="minus" class="product__minus">-</div>
@@ -35,9 +35,7 @@
 
 <style lang="scss">
   .product {
-    .visibility-hidden {
-      visibility: hidden;
-    }
+    min-height: 380px;
     margin: 6px;
     padding: 25px;
     border: 1px solid #eaebec;
@@ -45,8 +43,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-between;
     border-radius: 0px!important;
-    
+    .visibility-hidden {
+      visibility: hidden;
+    }
     &:hover{
       border-color: #fff;
       box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
@@ -75,18 +76,15 @@
       font-weight: 600;
     }
     .visible{
-        height: auto;
         opacity: 1;
       }
     &__other{
       display: flex;
       align-items: center;
       margin-top: 20px;
-      height: 0;
       opacity: 0;
       overflow: hidden;
       transition: height 0.3s ease, opacity 0.3s ease;
-      
     }
     &__counter{
       display: flex;

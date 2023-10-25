@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import productCategory from '../components/Catalog/ProductCategoryVue.vue'
 
 Vue.use(VueRouter)
 
@@ -60,8 +61,16 @@ const routes = [
     name: 'Program',
     component: () => import('../views/Program.vue')
   },
-  
-  
+  {
+    path: '/catalog',
+    name: 'Catalog',
+    component: () => import('../components/Catalog/CatalogVue.vue'),
+  },
+  {
+    path: '/catalog/:id',
+    component: productCategory,
+    name: 'product-category'
+  }
 ]
 
 const router = new VueRouter({
