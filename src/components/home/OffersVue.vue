@@ -33,7 +33,7 @@
 </template>
 
 <script>
-import ProductVue from './ProductVue.vue'
+import ProductVue from '../main/ProductVue.vue'
   export default {
     components: {
       ProductVue

@@ -1,5 +1,5 @@
 <template>
-  <div class="catalog">
+  <v-container class="catalog">
     <div class="catalog__wrap d-flex justify-space-between align-center mb-5">
       <div class="catalog__title">Продукция</div>
       <div class="catalog__price">
@@ -21,7 +21,7 @@
       </div>
     </div>
     <router-view></router-view>
-  </div>
+  </v-container>
 </template>
 
 <script>

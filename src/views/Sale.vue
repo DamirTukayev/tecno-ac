@@ -1,50 +1,55 @@
 <template>
-  <div class="Stock">
-     <StockVue/>
-     <div class="right_side wide">
-		<div class="ask_small_block">
-			<div class="ask_btn_block">
-				<a class="button vbig_btn wides ask_btn"><span>Задать вопрос</span></a>
-			</div>
-			<div class="description">
-				Наши специалисты с радостью ответят на любой интересующий вопрос по предлагаемой продукции.			
+  <v-container>
+    <div class="Stock">
+      <StockVue />
+      <div class="right_side wide">
+        <div class="ask_small_block">
+          <div class="ask_btn_block">
+            <a class="button vbig_btn wides ask_btn"
+              ><span>Задать вопрос</span></a
+            >
+          </div>
+          <div class="description">
+            Наши специалисты с радостью ответят на любой интересующий вопрос по
+            предлагаемой продукции.
+          </div>
+        </div>
       </div>
-		</div>
-	</div>
-  </div>
+    </div>
+  </v-container>
 </template>
 
 <script>
-import StockVue from '../components/main/StockVue.vue';
+import StockVue from "../components/home/StockVue";
 
 export default {
   components: {
-      StockVue,
-  }
-  }
+    StockVue,
+  },
+};
 </script>
 
 <style lang="scss">
-.Stock{
+.Stock {
   margin-left: 20px;
   display: flex;
   justify-content: flex-start;
   .stock-image-block_1__info {
     line-height: 18px;
     padding: 20px 5px 0 0;
-}
+  }
   .stock-image-block_1 {
     height: 0;
     position: relative;
     box-shadow: 0 0 1px #a2a6aa inset;
     transition: box-shadow ease-out 0.2s, border ease-out 0.2s;
-}
+  }
   .stock-image-block {
     display: inline-block;
     vertical-align: top;
     padding: 6px 6px;
     width: 32%;
-}
+  }
   .stock-item__titla {
     text-decoration: none;
     font-size: 13px;
@@ -64,48 +69,48 @@ export default {
     padding: 10px 0 40px 0;
     border: none;
   }
-.right_side.wide {
+  .right_side.wide {
     width: 270px;
     margin-top: 120px;
-}
-.right_side {
+  }
+  .right_side {
     float: right;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
     -o-box-sizing: border-box;
     -webkit-box-sizing: border-box;
-}
-.ask_small_block {
-  width: 215px;
-  border: 1px solid #e5e5e5;
-}
-.ask_small_block .ask_btn_block {
+  }
+  .ask_small_block {
+    width: 215px;
+    border: 1px solid #e5e5e5;
+  }
+  .ask_small_block .ask_btn_block {
     padding: 29px 20px;
     text-align: center;
     border-bottom: 1px solid #e5e5e5;
-}
-.button.vbig_btn.wides {
+  }
+  .button.vbig_btn.wides {
     padding: 10px 12px;
     width: auto;
-    color: #FFF;
+    color: #fff;
     background: #e10018;
-    &:hover{
+    &:hover {
       background: #d2323e;
     }
-}
-.button.vbig_btn {
+  }
+  .button.vbig_btn {
     width: auto;
-}
-.ask_small_block .description {
+  }
+  .ask_small_block .description {
     font-size: 13px;
     line-height: 18px;
     padding: 19px 24px 19px;
-}
-.stock-image-block_1__info__titla {
+  }
+  .stock-image-block_1__info__titla {
     font-size: 16px;
-}
-.stock-image-block_1__info__text {
+  }
+  .stock-image-block_1__info__text {
     color: #1d2029;
-}
+  }
 }
 </style>

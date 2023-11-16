@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import RightblockVue from '../components/main/RightblockVue.vue'
+import RightblockVue from '@/components/home/RightblockVue.vue'
 
 export default {
   name: 'Home',

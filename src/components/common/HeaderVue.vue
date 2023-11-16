@@ -1,97 +1,141 @@
 <template>
   <div class="header">
-    <router-link to="/">
-      <img class="header__logo" src="../../assets/header/logo.svg" alt="">
-    </router-link>
-    <div class="header__social">
-      <div class="header__text">
-        Успешно работаем на рынке уже более 30 лет
-      </div>
-      <div class="header__social__icons">
-        <img src="../../assets/header/social-icons/Vkontakte.svg" alt="">
-        <img src="../../assets/header/social-icons/youtube.svg" alt="">
-        <img src="../../assets/header/social-icons/Telegram.svg" alt="">
-      </div>
-    </div>
-    <v-text-field
-      hide-details
-      class="header__search elevation-0 rounded-0"
-      placeholder="Поиск по товарам"
-      solo
-      flat
-      height="50px"
-      background-color="#eee"
-      append-icon="mdi-magnify"
-    >
-    </v-text-field>
-
-    <div class="header__contacts">
-      <div class="header__mail">info1technoac@gmail.com</div>
-      <div class="header__numbers">
-        <img src="../../assets/header/phone.svg" class="mr-2" alt="">
-        <div>
-          <div class="header__phone mb-1">8 (718) 262-73-62</div>
-          <div class="header__phone">8 (778) 730-32-12</div>
+    <div class="header__up">
+      <v-container class="d-flex justify-space-between align-center">
+        <div class="header__up__tel">
+          <a href="tel:8 (718) 262-73-62">8 (718) 262-73-62</a>
+          <a href="tel:8 (778) 730-32-12">8 (778) 730-32-12</a>
         </div>
-      </div>
-      <div class="header__order">Заказать звонок</div>
+        <a href="mailto:info1technoac@gmail.com" class="header__up__contacts">
+          <v-icon>mdi-email-outline</v-icon>
+          <span class="header__up__contacts__text"
+            >info1technoac@gmail.com</span
+          >
+        </a>
+      </v-container>
     </div>
+    <div class="header__down">
+      <v-container class="d-flex justify-space-between align-center">
+        <router-link to="/">
+          <img
+            class="header__down__logo"
+            src="@/assets/header/logo.png"
+            alt=""
+          />
+        </router-link>
+        <v-text-field
+          hide-details
+          class="header__down__search elevation-0 rounded-lg"
+          placeholder="Поиск по товарам"
+          solo
+          flat
+          height="50px"
+          background-color="#eee"
+          append-icon="mdi-magnify"
+        >
+        </v-text-field>
+        <div class="header__down__icons">
+          <v-btn icon @click="isOpenLogin = true">
+            <v-icon>mdi-account-outline</v-icon>
+          </v-btn>
+          <v-btn icon>
+            <v-icon>mdi-cart-outline</v-icon>
+          </v-btn>
+          <v-btn icon>
+            <v-icon>mdi-phone-outline</v-icon>
+          </v-btn>
+        </div>
+      </v-container>
+    </div>
+    <v-dialog v-model="isOpenLogin" max-width="500px">
+      <LoginVue/>
+    </v-dialog>
   </div>
 </template>
 
+<script>
+import LoginVue from "../Login/LoginVue.vue";
+export default {
+  components: { LoginVue },
+  data() {
+    return {
+      isOpenLogin: false,
+    };
+  },
+};
+</script>
+
 <style lang="scss">
-  .header{
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  &__up {
+    background-color: #f7f7f7;
+    padding: 10px 0;
+    width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    &__logo {
-      max-width: 195px;
-      margin-right: 50px;
-    }
-    &__social{
-      max-width: 240px;
-      margin-right: 20px;
-      &__icons{
+    &__tel {
+      display: flex;
+      gap: 10px;
+      position: relative;
+      a {
+        position: relative;
         display: flex;
+        align-items: center;
         gap: 10px;
+        color: #1d2029 !important;
+        text-decoration: none;
+        font-size: 0.9rem;
+        &:first-child {
+          &::after {
+            content: "";
+            background-color: #cd0016;
+            height: 4px;
+            width: 4px;
+            border-radius: 5px;
+          }
+        }
+        &:hover {
+          text-decoration: underline;
+        }
       }
     }
-    &__text{
-      font-size: 14px;
-      padding-bottom: 7px;
-      line-height: 1.25;
-    }
-    &__search{
-      font-size: 14px;
-      color: #969696;
-    }
-    &__mail{
-      color: #cd0016;
-      font-size: 14px;
-      margin-bottom: 8px;
-    }
-    &__contacts{
+    &__contacts {
       display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      margin-left: 20px;
-    }
-    &__numbers{
-      display: flex;
-    }
-    &__phone{
-      font-size: 18px;
-      font-weight: 600;
-      line-height: 18px;
-      color: #1d2029;
-    }
-    &__order{
-      display: inline-block;
-      font-size: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.1px;
-      color: #cd0016;
-      margin-top: 8px;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+      &__text {
+        font-size: 0.9rem;
+        color: #1d2029 !important;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      img {
+        cursor: pointer;
+      }
     }
   }
+  &__down {
+    width: 100%;
+    padding: 20px 0;
+    &__logo {
+      width: 150px;
+    }
+    &__search {
+      max-width: 700px;
+    }
+    &__icons {
+      display: flex;
+      gap: 15px;
+      i {
+        cursor: pointer;
+      }
+    }
+  }
+}
 </style>

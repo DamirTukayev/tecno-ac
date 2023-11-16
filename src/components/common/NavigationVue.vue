@@ -1,67 +1,106 @@
 <template>
-  <div>
-    <v-btn-toggle
-      v-model="toggle_exclusive"
-      class="mt-5 navigation rounded-0"
-      borderless
-      mandatory 
-    >
-      <v-btn  class="navigation__btn" to="/catalog">
-        <v-icon class="mr-1" size="16px" color="#fff">mdi-menu</v-icon>
+  <div class="nav">
+    <v-container class="d-flex align-center">
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/catalog' ? 'nav__item__active' : ''"
+        @click="goTo('/catalog')"
+      >
+        <v-icon class="mr-1" size="22" color="#fff">mdi-menu</v-icon>
         Продукция
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/import">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/import' ? 'nav__item__active' : ''"
+        @click="goTo('/import')"
+      >
         Импортозамещение
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/sale">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/sale' ? 'nav__item__active' : ''"
+        @click="goTo('/sale')"
+      >
         Акции
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/about">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/about' ? 'nav__item__active' : ''"
+        @click="goTo('/about')"
+      >
         О компании
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/dealers">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/dealers' ? 'nav__item__active' : ''"
+        @click="goTo('/dealers')"
+      >
         Дилерам
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/tenders">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/tenders' ? 'nav__item__active' : ''"
+        @click="goTo('/tenders')"
+      >
         Тендеры
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/info">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/info' ? 'nav__item__active' : ''"
+        @click="goTo('/info')"
+      >
         Информация
-      </v-btn>
-      <v-btn  class="navigation__btn" to="/help">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/help' ? 'nav__item__active' : ''"
+        @click="goTo('/help')"
+      >
         Помощь
-      </v-btn>
-      <v-btn  class="navigation__btn">
+      </div>
+      <div
+        class="nav__item"
+        :class="currentRouteName === '/contacts' ? 'nav__item__active' : ''"
+        @click="goTo('/contacts')"
+      >
         Контакты
-      </v-btn>
-    </v-btn-toggle>
+      </div>
+    </v-container>
   </div>
 </template>
 
 <script>
-  export default {
-    data () {
-      return {
-        toggle_exclusive: undefined,
-      }
+export default {
+  computed: {
+    currentRouteName() {
+      return this.$route.path;
     },
-  }
+  },
+  methods: {
+    goTo(route) {
+      this.$router.push(route);
+    },
+  },
+};
 </script>
 
 <style lang="scss">
-.navigation {
-  display: flex;
- 
-  &__btn{
-    border: none;
-    color: white!important;
-    padding: 0 16px!important;
-    background: #e50119!important;
-    opacity: 1!important;
-    flex-grow: 1;
-  }
-  .v-btn--active {
-    opacity: 1!important;
+.nav {
+  background-color: #d60117;
+  &__item {
+    display: flex;
+    align-items: center;
+    padding: 15px 15px;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    cursor: pointer;
+    &:hover {
+      background-color: #f4011b;
+    }
+    &__active {
+      background-color: #f4011b;
+    }
   }
 }
 </style>
