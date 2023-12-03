@@ -38,9 +38,7 @@
           <v-btn icon @click="isOpenLogin = true">
             <v-icon>mdi-account-outline</v-icon>
           </v-btn>
-          <v-btn icon>
-            <v-icon>mdi-cart-outline</v-icon>
-          </v-btn>
+          <CartMenuVue/>
           <v-btn icon>
             <v-icon>mdi-phone-outline</v-icon>
           </v-btn>
@@ -48,15 +46,16 @@
       </v-container>
     </div>
     <v-dialog v-model="isOpenLogin" max-width="500px">
-      <LoginVue/>
+      <LoginVue @close-popup="isOpenLogin = false"/>
     </v-dialog>
   </div>
 </template>
 
 <script>
-import LoginVue from "../Login/LoginVue.vue";
+import LoginVue from "../Login/LoginVue";
+import CartMenuVue from "./Cart/CartMenuVue.vue";
 export default {
-  components: { LoginVue },
+  components: { LoginVue, CartMenuVue },
   data() {
     return {
       isOpenLogin: false,

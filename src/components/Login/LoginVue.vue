@@ -1,7 +1,11 @@
 <template>
   <v-card>
-    <v-card-title class="d-flex justify-space-between"
-      >Войти <v-btn icon><v-icon>mdi-close</v-icon></v-btn></v-card-title
+    <v-card-title class="d-flex justify-space-between">
+      Войти 
+      <v-btn icon @click="closePopup">
+        <v-icon>mdi-close</v-icon>
+      </v-btn>
+    </v-card-title
     >
     <v-card-text class="login__inputs">
       <v-text-field
@@ -12,7 +16,6 @@
         flat
         height="50px"
         background-color="#eee"
-        append-icon="mdi-magnify"
       ></v-text-field>
       <v-text-field
         hide-details
@@ -22,12 +25,12 @@
         flat
         height="50px"
         background-color="#eee"
-        append-icon="mdi-magnify"
+        type="password"
       ></v-text-field>
     </v-card-text>
-    <v-card-actions class="px-6">
+    <v-card-actions class="px-6 d-flex justify-space-between">
       <v-btn elevation="0" color="primary">{{mode === 'login' ? 'Войти' : 'Зарегистрироваться'}}</v-btn>
-      <v-btn elevation="0" color="primary" @click="changeMode">{{mode === 'login' ? 'Регистрация' : 'Войти'}}</v-btn>
+      <span style="color: #cd0016; cursor: pointer;" @click="changeMode">{{mode === 'login' ? 'Регистрация' : 'У меня уже есть аккаунт'}}</span>
     </v-card-actions>
   </v-card>
 </template>
@@ -46,6 +49,9 @@ export default {
       } else {
         this.mode = 'login'
       }
+    },
+    closePopup () {
+      this.$emit('close-popup')
     }
   }
 }

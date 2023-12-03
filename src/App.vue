@@ -6,6 +6,9 @@
       <router-view />
     </v-main>
     <FooterVue />
+    <v-dialog v-model="isOpenBuy" max-width="400px">
+      <BuyPopupVue @close-popup="isOpenBuy = false" />
+    </v-dialog>
   </v-app>
 </template>
 
@@ -13,6 +16,8 @@
 import FooterVue from "./components/common/FooterVue.vue";
 import HeaderVue from "@/components/common/HeaderVue.vue";
 import NavigationVue from "@/components/common/NavigationVue.vue";
+import BuyPopupVue from "./components/Buy/BuyPopupVue.vue";
+import { mapState } from "vuex";
 
 export default {
   name: "App",
@@ -20,10 +25,21 @@ export default {
     HeaderVue,
     NavigationVue,
     FooterVue,
+    BuyPopupVue,
   },
   data: () => ({
-    //
+    isOpenBuy: false,
   }),
+  computed: {
+    ...mapState({
+      triggerBuy: (state) => state.appStore.triggerBuy,
+    }),
+  },
+  watch: {
+    triggerBuy() {
+      this.isOpenBuy = true;
+    },
+  },
 };
 </script>
 
