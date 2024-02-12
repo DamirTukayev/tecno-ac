@@ -3,8 +3,8 @@
     <div class="header__up">
       <v-container class="d-flex justify-space-between align-center">
         <div class="header__up__tel">
-          <a href="tel:8 (718) 262-73-62">8 (718) 262-73-62</a>
-          <a href="tel:8 (778) 730-32-12">8 (778) 730-32-12</a>
+          <a href="tel:8 (718) 265-01-11">8 (718) 265-01-11</a>
+          <a href="tel:8 (778) 590-59-77">8 (778) 590-59-77</a>
         </div>
         <a href="mailto:info1technoac@gmail.com" class="header__up__contacts">
           <v-icon>mdi-email-outline</v-icon>
@@ -40,7 +40,7 @@
           </v-btn>
           <CartMenuVue/>
           <v-btn icon>
-            <v-icon>mdi-phone-outline</v-icon>
+            <v-icon color="#d60117">mdi-phone-outline</v-icon>
           </v-btn>
         </div>
       </v-container>
@@ -53,7 +53,7 @@
 
 <script>
 import LoginVue from "../Login/LoginVue";
-import CartMenuVue from "./Cart/CartMenuVue.vue";
+import CartMenuVue from "./Cart/CartMenuVue";
 export default {
   components: { LoginVue, CartMenuVue },
   data() {

@@ -61,7 +61,7 @@
       <div
         class="nav__item"
         :class="currentRouteName === '/contacts' ? 'nav__item__active' : ''"
-        @click="goTo('/contacts')"
+        @click="goToPage('https://www.technoac.ru/contacts/')"
       >
         Контакты
       </div>
@@ -77,6 +77,9 @@ export default {
     },
   },
   methods: {
+    goToPage (path) {
+      window.open(path)
+    },
     goTo(route) {
       this.$router.push(route);
     },

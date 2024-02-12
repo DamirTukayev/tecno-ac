@@ -1,15 +1,15 @@
 <template>
   <v-card>
-    <v-card-title class="d-flex justify-space-between py-10">
+    <v-card-title class="d-flex justify-space-between py-3">
       Купить в 1 клик
       <v-btn icon @click="closePopup">
         <v-icon>mdi-close</v-icon>
       </v-btn>
     </v-card-title>
     <v-divider></v-divider>
-    <v-card-text>
+    <v-card-text class="py-2">
       <v-alert v-if="error" type="error">{{ error }}</v-alert>
-      <v-form class="py-5">
+      <v-form>
         <v-text-field
           label="Контактное лицо *"
           filled
