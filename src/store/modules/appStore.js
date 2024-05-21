@@ -1,7 +1,8 @@
 export default {
   state: {
     cartItems: [],
-    triggerBuy: 0
+    triggerBuy: 0,
+    activeCatalogUrl: null
   },
   mutations: {
     setValue (state, keyValue) {

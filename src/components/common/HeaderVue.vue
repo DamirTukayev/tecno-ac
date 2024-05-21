@@ -35,9 +35,6 @@
         >
         </v-text-field>
         <div class="header__down__icons">
-          <v-btn icon @click="isOpenLogin = true">
-            <v-icon>mdi-account-outline</v-icon>
-          </v-btn>
           <CartMenuVue/>
           <v-btn icon>
             <v-icon color="#d60117">mdi-phone-outline</v-icon>

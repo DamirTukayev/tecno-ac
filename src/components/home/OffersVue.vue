@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="offer">
     <div class="offer__title">
       Выгодные предложения
@@ -87,4 +87,4 @@ import ProductVue from '../main/ProductVue.vue'
       }
     }
   }
-</style>
+</style> -->

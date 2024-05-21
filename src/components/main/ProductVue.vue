@@ -6,7 +6,7 @@
   >
     <img class="product__img" :src="item.preview_photo" alt="" />
     <div class="product__title">{{ item.title }}</div>
-    <div class="product__price">{{ item.price }} ₽</div>
+    <div class="product__price" v-if="item.price">{{ item.price }} ₽</div>
     <div class="product__other" :class="{ visible: showOther }">
       <div class="product__counter">
         <div @click="minus" class="product__minus">-</div>

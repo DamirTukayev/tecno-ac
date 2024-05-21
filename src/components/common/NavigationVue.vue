@@ -1,20 +1,20 @@
 <template>
   <div class="nav">
-    <v-container class="d-flex align-center">
+    <v-container class="d-flex align-center justify-space-between" style="width: 100%;">
       <div
         class="nav__item"
         :class="currentRouteName === '/catalog' ? 'nav__item__active' : ''"
         @click="goTo('/catalog')"
       >
         <v-icon class="mr-1" size="22" color="#fff">mdi-menu</v-icon>
-        Продукция
+        Товары
       </div>
       <div
         class="nav__item"
         :class="currentRouteName === '/import' ? 'nav__item__active' : ''"
         @click="goTo('/import')"
       >
-        Импортозамещение
+        Импорт
       </div>
       <div
         class="nav__item"
@@ -28,7 +28,7 @@
         :class="currentRouteName === '/about' ? 'nav__item__active' : ''"
         @click="goTo('/about')"
       >
-        О компании
+        О нас
       </div>
       <div
         class="nav__item"
@@ -96,10 +96,11 @@ export default {
     padding: 15px 15px;
     font-size: 16px;
     color: #fff;
-    font-weight: 400;
+    font-weight: 500;
     cursor: pointer;
+    width: 100%;
     &:hover {
-      background-color: #f4011b;
+      background-color: #f4011994;
     }
     &__active {
       background-color: #f4011b;

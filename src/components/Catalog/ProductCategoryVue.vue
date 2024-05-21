@@ -1,20 +1,34 @@
 <template>
-  <v-container>
-    <div class="products">
-      <div v-for="product in products" :key="product.id">
-        <!-- {{product.tags}}
-        <img :src="product.preview_photo" alt="">
-        <div class="product__title">
-          {{product.title}}
+  <v-container v-if="category">
+    <div v-for="(cat, index) in category" :key="index">
+      <img :src="cat.image" alt="" v-if="cat.image" />
+      <div class="category__icon" v-else>
+        <v-icon size="70">mdi-image</v-icon>
+      </div>
+      <h1>{{ cat.name }}</h1>
+      <div class="category__description mb-3">{{ cat.description }}</div>
+      <div class="d-flex" style="gap: 10px;">
+        <div v-for="(subcat, index) in cat.children" :key="index" class="category__item">
+          <img :src="subcat.image" alt="" v-if="subcat.image" />
+          <div class="category__icon" v-else>
+            <v-icon size="70">mdi-image</v-icon>
+          </div>
+          <h1>{{ subcat.name }}</h1>
+          <h4>{{ subcat.description }}</h4>
         </div>
-        {{product.price}} -->
-        <product-vue :item="product" />
+      </div>
+      <h2>Товары</h2>
+      <div class="products">
+        <div v-for="product in cat.products" :key="product.id">
+          <product-vue :item="product" />
+        </div>
       </div>
     </div>
   </v-container>
 </template>
 
 <script>
+import { mapState } from "vuex";
 import ProductVue from "../main/ProductVue.vue";
 export default {
   components: { ProductVue },
@@ -22,20 +36,38 @@ export default {
     return {
       id: 1,
       products: null,
+      category: null,
+      children: null,
     };
   },
+  computed: {
+    ...mapState({
+      activeCatalogUrl: (state) => state.appStore.activeCatalogUrl,
+    }),
+  },
   mounted() {
-    this.id = this.$route.params.id;
-    if (this.id) {
-      this.getProductsById();
+    if (this.activeCatalogUrl) {
+      this.getInfoCategory(this.activeCatalogUrl);
     }
   },
   methods: {
-    async getProductsById() {
+    async getInfoCategory(url) {
+      const _url = this.$config.API + "mycategories/" + url;
       try {
-        const url = this.$config.API + "goods/?category__id=" + this.id;
+        const resp = await this.$axios.get(_url);
+        console.log(resp.data);
+        this.category = resp.data;
+        await this.getChildren(this.category.children);
+        console.log(resp.data);
+      } catch (error) {
+        console.log(error);
+      }
+    },
+    async getChildren(url) {
+      try {
         const resp = await this.$axios.get(url);
-        this.products = resp.data.results;
+        this.children = resp.data;
+        console.log(resp.data);
       } catch (error) {
         console.log(error);
       }
@@ -63,5 +95,13 @@ export default {
   height: 170px;
   width: 170px;
   margin-bottom: 10px;
+}
+.category__description {
+  color: #424141;
+}
+.category__item {
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 10px;
 }
 </style>

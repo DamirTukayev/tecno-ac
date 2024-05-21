@@ -3,19 +3,22 @@
     <div class="catalog__wrap d-flex justify-space-between align-center mb-5">
       <div class="catalog__title">Продукция</div>
       <div class="catalog__price">
-        <v-btn style="border-radius: 2px;" dark color="#e10018" class="elevation-0 catalog__btn">Прайс-лист</v-btn>
-        <span>от 21.11.2022 с НДС</span>
+        <v-btn style="border-radius: 2px;" dark color="#e10018" class="elevation-0 catalog__btn" @click="downloadFile">Прайс-лист</v-btn>
+        <span>от 01.02.2024 с НДС</span>
       </div>
     </div>
     <div class="category" v-show="this.category.length">
-      <div v-for="(item, index) in category" :key="index" class="category__item" @click="openProducts(item)">
-        <img src="https://www.technoac.ru/upload/iblock/845/rgnkda3jhqzkp5sv394w8yt1g5qhh3b3.jpg" alt="">
-        <div class="category__wrap">
-          <div class="category__title">
-            {{ item.title }}
-          </div>
-          <div class="category__subtitle">
-            Производство и поставка передвижных измерительных лабораторий для решения различных задач.
+      <div v-for="(item, index) in category" :key="index" @click="openProducts(item)">
+        <div class="category__item">
+          <img :src="item.image" alt="" v-if="item.image">
+          <div class="category__icon" v-else><v-icon size="70">mdi-image</v-icon></div>
+          <div class="category__wrap">
+            <div class="category__title">
+              {{ item.name }}
+            </div>
+            <div class="category__subtitle">
+              Производство и поставка передвижных измерительных лабораторий для решения различных задач.
+            </div>
           </div>
         </div>
       </div>
@@ -33,7 +36,7 @@
     },
     async mounted () {
       try {
-        const url = this.$config.API + 'category/'
+        const url = this.$config.API + 'mycategories/'
         const resp = await this.$axios.get(url)
         this.category = resp.data
       } catch (error) {
@@ -41,14 +44,31 @@
       }
     },
     methods: {
+      downloadFile() {
+        const fileUrl = 'https://www.technoac.ru/files/price_01.02.24.xlsx'
+
+        const link = document.createElement('a');
+        link.href = fileUrl;
+
+        link.setAttribute('download', 'price_01.02.24.xlsx');
+
+        document.body.appendChild(link);
+        link.click();
+
+        document.body.removeChild(link);
+      },
       openProducts (category) {
-        this.$router.push(`catalog/${category.id}`)
+        this.$store.dispatch("SET_VALUE", {
+          key: "activeCatalogUrl",
+          value: category.slug
+        });
+        this.$router.push(`catalog/${category.slug}`)
       }
     }
   }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .catalog{
   width: 100%;
   padding-top: 20px;
@@ -78,14 +98,24 @@
   display: flex;
   gap: 15px;
   justify-content: space-between;
+  &__icon {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
 .category__item{
   border: 1px solid #e8e8e8;
-  width: 50%;
   padding: 30px 20px;
   display: flex;
   align-items: center;
   cursor: pointer;
+  img {
+    width: 120px;
+    height: 120px;
+  }
 }
 .category__wrap{
   display: flex;
