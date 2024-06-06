@@ -4,7 +4,7 @@
     @mouseover="showOther = true"
     @mouseleave="showOther = false"
   >
-    <img class="product__img" :src="item.preview_photo" alt="" />
+    <img class="product__img" :src="item.images[0].original" alt="" v-if="item.images.length"/>
     <div class="product__title">{{ item.title }}</div>
     <div class="product__price" v-if="item.price">{{ item.price }} ₽</div>
     <div class="product__other" :class="{ visible: showOther }">
@@ -93,6 +93,7 @@ export default {
     max-width: 170px;
     min-height: 170px;
     max-height: 170px;
+    object-fit: contain;
   }
   &__title {
     font-size: 16px;

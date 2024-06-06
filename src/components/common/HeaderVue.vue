@@ -36,7 +36,7 @@
         </v-text-field>
         <div class="header__down__icons">
           <CartMenuVue/>
-          <v-btn icon>
+          <v-btn icon @click="isOpen = true">
             <v-icon color="#d60117">mdi-phone-outline</v-icon>
           </v-btn>
         </div>
@@ -44,6 +44,29 @@
     </div>
     <v-dialog v-model="isOpenLogin" max-width="500px">
       <LoginVue @close-popup="isOpenLogin = false"/>
+    </v-dialog>
+    <v-dialog v-model="isOpen" max-width="500px">
+      <v-card>
+        <v-card-title>Свяжитесь с нами</v-card-title>
+        <v-card-text>
+          <v-text-field
+            placeholder="Номер телефона"
+            solo
+            hide-details
+            v-model="phone"
+          >
+          </v-text-field>
+        </v-card-text>
+        <v-card-actions>
+          <v-btn
+            color="#d60117"
+            text
+            @click="sendPhone"
+          >
+            Отправить
+          </v-btn>
+        </v-card-actions>
+      </v-card>
     </v-dialog>
   </div>
 </template>
@@ -56,8 +79,21 @@ export default {
   data() {
     return {
       isOpenLogin: false,
+      isOpen: true,
+      phone: ''
     };
   },
+  methods: {
+    async sendPhone () {
+      try {
+        const url = 'http://technoac.kz/api/contact/phone_number/'
+        const resp = await this.$axios.post(url, this.phone)
+        console.log(resp);
+      } catch (error) {
+        console.log(error);
+      }
+    }
+  }
 };
 </script>
 

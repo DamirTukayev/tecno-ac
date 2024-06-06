@@ -1,28 +1,31 @@
 <template>
-  <v-container v-if="category">
-    <div v-for="(cat, index) in category" :key="index">
-      <img :src="cat.image" alt="" v-if="cat.image" />
-      <div class="category__icon" v-else>
-        <v-icon size="70">mdi-image</v-icon>
-      </div>
-      <h1>{{ cat.name }}</h1>
-      <div class="category__description mb-3">{{ cat.description }}</div>
-      <div class="d-flex" style="gap: 10px;">
-        <div v-for="(subcat, index) in cat.children" :key="index" class="category__item">
-          <img :src="subcat.image" alt="" v-if="subcat.image" />
-          <div class="category__icon" v-else>
-            <v-icon size="70">mdi-image</v-icon>
+  <v-container class="pc mt-4">
+    <div class="d-flex" v-if="category">
+      <div v-for="(cat, index) in category" :key="index" class="ml-2">
+        <div class="d-flex">
+          <div class="pc__subcategory" @click="openCategory(cat.slug)">
+            <img :src="cat.image" alt="" v-if="cat.image" class="pc__img" />
+            <div class="category__icon" v-else>
+              <v-icon size="50">mdi-image</v-icon>
+            </div>
+            <div class="pc__wrap">
+              <div class="pc__subcategory__title">{{ cat.name }}</div>
+              <div class="pc__subcategory__description">{{ cat.description }}</div>
+            </div>
           </div>
-          <h1>{{ subcat.name }}</h1>
-          <h4>{{ subcat.description }}</h4>
         </div>
       </div>
+    </div>
+    <div v-if="category?.length">
       <h2>Товары</h2>
-      <div class="products">
-        <div v-for="product in cat.products" :key="product.id">
-          <product-vue :item="product" />
+      <div v-for="cat in category" :key="cat.slug" class="ml-2 d-flex">
+        <div v-for="(prod, index) in cat.products" :key="index" class="ml-2">
+          <ProductVue :item="prod" />
         </div>
       </div>
+    </div>
+    <div v-else class="mb-2">
+      <h1>В данной категории нет товаров</h1>
     </div>
   </v-container>
 </template>
@@ -45,29 +48,30 @@ export default {
       activeCatalogUrl: (state) => state.appStore.activeCatalogUrl,
     }),
   },
+  watch: {
+    $route(to) {
+      // This will run when the route changes
+      this.id = to.params.id;
+    },
+    id(newVal) {
+      this.getInfoCategory(newVal);
+    },
+  },
   mounted() {
     if (this.activeCatalogUrl) {
       this.getInfoCategory(this.activeCatalogUrl);
     }
   },
   methods: {
+    openCategory(slug) {
+      this.$router.push(`/catalog/${slug}`);
+    },
     async getInfoCategory(url) {
       const _url = this.$config.API + "mycategories/" + url;
       try {
         const resp = await this.$axios.get(_url);
-        console.log(resp.data);
         this.category = resp.data;
-        await this.getChildren(this.category.children);
-        console.log(resp.data);
-      } catch (error) {
-        console.log(error);
-      }
-    },
-    async getChildren(url) {
-      try {
-        const resp = await this.$axios.get(url);
         this.children = resp.data;
-        console.log(resp.data);
       } catch (error) {
         console.log(error);
       }
@@ -103,5 +107,37 @@ export default {
   border: 1px solid gray;
   padding: 20px;
   border-radius: 10px;
+}
+.pc__img {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 10px;
+}
+.pc__subcategory {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  border: 1px solid #eaebec;
+  max-width: 33%;
+  gap: 10px;
+  margin-bottom: 30px;
+  min-width: 400px;
+  min-height: 76px;
+  cursor: pointer;
+}
+.pc__subcategory__title {
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 22px;
+}
+.pc__subcategory__description {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 300px;
+}
+.pc__wrap {
+  display: flex;
+  flex-direction: column;
 }
 </style>
